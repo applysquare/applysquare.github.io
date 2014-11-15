@@ -1,0 +1,8 @@
+---
+layout: base
+title: Contact
+language: en
+permalink: /contact/
+---
+
+{% include welcome.html %}<div class="contact"><div class="contact-content"><div class="container"><div class="title"><h2>Contact</h2><p>There are several ways to promptly reach me. The easiest way is to leave a public comment below. However if you prefer, you may also send me a private email. Encryption is optional.</p></div></div></div><div class="contact-pgp"><div class="container">{% for contact in site.data.contact %}{% if contact.language == page.language %}<pre>{{ contact.pgp }}</pre>{% endif %}{% endfor %}</div></div><div class="contact-disqus"><div class="container">{% include disqus.html %}</div></div></div>

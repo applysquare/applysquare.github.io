@@ -1,0 +1,10 @@
+yuicompressor
+closure
+
+-e git+git@github.com:ziyan/HamlPy.git#egg=hamlpy
+
+oauth2
+pycurl
+simplejson
+pyyaml
+

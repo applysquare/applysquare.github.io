@@ -1,0 +1,38 @@
+title:
+  en: ApplySquare
+  zh: 申请方
+subtitle:
+  en: "ApplySquare."
+  zh: "你好, 我是申请方."
+keywords: ApplySquare,申请方
+author:
+  name: ApplySquare
+  email: hello@applysquare.com
+timezone: UTC
+encoding: utf-8
+
+url: http://blog.applysquare.com
+repository: https://github.com/applysquare/applysquare.github.io
+feed:
+  en: http://feeds.applysquare.net/ziyan/en
+  zh: http://feeds.applysquare.net/ziyan/zh
+static_url: //d2b94ji4cu0rx3.cloudfront.net/static
+media_url: //d2b94ji4cu0rx3.cloudfront.net/media
+
+debug: true
+analytics: UA-34085887-1
+
+lsi: false
+safe: true
+highlighter: pygments
+permalink: /:year/:month/:title/
+relative_permalinks: false
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - Rakefile
+  - README.md
+  - LICENSE

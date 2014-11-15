@@ -1,0 +1,28 @@
+.related<>
+  .container<>
+    %ul.posts<>
+      = "{% for post in include.posts %}"
+      = "{% if previous_post %}"
+      = "{% assign previous_post = false %}"
+      %li.related-label<>
+        = "{% if include.post.language == 'zh' %}"
+        %span.label.label-default<> 上一篇
+        = "{% else %}"
+        %span.label.label-default<> Previous post
+        = "{% endif %}"
+      = "{% include post.html post=post %}"
+      = "{% endif %}"
+      = "{% if post.id == include.post.id %}"
+      = "{% assign previous_post = true %}"
+      = "{% if next_post %}"
+      %li.related-label<>
+        = "{% if include.post.language == 'zh' %}"
+        %span.label.label-default<> 下一篇
+        = "{% else %}"
+        %span.label.label-default<> Next post
+        = "{% endif %}"
+      = "{% include post.html post=next_post %}"
+      = "{% endif %}"
+      = "{% endif %}"
+      = "{% assign next_post = post %}"
+      = "{% endfor %}"

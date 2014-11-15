@@ -1,0 +1,14 @@
+== ---
+layout: base
+title: Page Not Found
+permalink: /error/404/
+== ---
+= "\n\n"
+
+%div{lang: "en"}<>
+  = "{% include welcome.html content='<h1>404. Page Not Found.</h1><h2>Oops. Must have been a bad link. Here are some of our latest posts that you may be interested in browsing instead.</h2>' %}"
+  = "{% include latest.html posts=site.categories.en language='en' %}"
+
+.hide{lang: "zh"}<>
+  = "{% include welcome.html content='<h1>404. 无法找到该页面.</h1><h2>抱歉, 估计您刚刚遇上了一个坏链接. 页面找不到了, 不如就浏览一下我们近期发表的博文吧.</h2>' %}"
+  = "{% include latest.html posts=site.categories.zh language='zh' %}"

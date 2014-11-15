@@ -1,0 +1,6 @@
+---
+layout: none
+---
+{% for page in site.pages %}{% unless page.url contains '.' or page.url contains '/error/' %}{{ site.url }}{{ page.url }}
+{% endunless %}{% endfor %}{% for post in site.posts %}{{ site.url }}{{ post.url }}
+{% endfor %}

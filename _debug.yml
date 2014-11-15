@@ -1,0 +1,3 @@
+debug: true
+analytics:
+static_url: /static

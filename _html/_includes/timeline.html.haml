@@ -1,0 +1,18 @@
+#timeline.timeline.carousel.slide{"data-ride" => "carousel"}<>
+  %ol.carousel-indicators<>
+    %li.active{"data-target" => "#timeline", "data-slide-to" => "0"}<>
+    %li{"data-target" => "#timeline", "data-slide-to" => "1"}<>
+  .carousel-inner<>
+    .item.active<>
+      .container<>
+        %h3<> First slide
+        %p<> First slide description
+    .item<>
+      .container<>
+        %h3<> Second slide
+        %p<> Second slide description
+  %a.carousel-control{href: "#timeline", "data-slide" => "prev"}<>
+    %span.glyphicon.glyphicon-chevron-left<>
+  %a.carousel-control{href: "#timeline", "data-slide" => "next"}<>
+    %span.glyphicon.glyphicon-chevron-right<>
+

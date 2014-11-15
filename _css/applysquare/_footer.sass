@@ -1,0 +1,79 @@
+
+.footer
+  overflow: hidden
+  color: #999
+  position: relative
+
+  .footer-content
+    background: #333 url("/static/img/bg-dark.png")
+    padding: 50px 0
+    padding-bottom: 20px
+    color: #ccc
+    a.twitter
+      display: block
+      font-size: 40px
+      color: white
+      margin-bottom: 30px
+      +opacity(0.8)
+      &:hover
+        +opacity(1.0)
+    ul.tweets
+      display: block
+      list-style: none
+      margin: 0
+      padding: 0
+      li.tweet
+        display: block
+        margin-bottom: 30px
+        a
+          display: block
+          color: #ccc
+          p
+            margin: 0
+          strong
+            font-weight: normal
+            text-transform: lowercase
+            color: #888
+          &:hover, &:focus
+            color: #eee
+            text-decoration: none
+
+  .footer-bottom
+    font-size: 12px
+    background: #292929 url("/static/img/bg-darker.png")
+
+    .footer-tree
+      position: absolute
+      display: block
+      right: -120px
+      top: -350px
+      width: 350px
+      height: 350px
+      background: transparent url("/static/img/tree.png")
+      background-size: 350px 350px
+
+    .footer-menu
+      padding: 50px 0
+      ul
+        display: block
+        list-style: none
+        margin: 0
+        margin-bottom: 25px
+        padding: 0
+        li
+          line-height: 20px
+          strong
+            display: inline-block
+            text-transform: uppercase
+            color: #aaa
+            margin-bottom: 10px
+          a
+            color: #999
+            &:hover, &:focus
+              text-decoration: none
+              color: #ddd
+
+@media (max-width: 767px)
+  .footer
+    .footer-content
+      padding-bottom: 350px

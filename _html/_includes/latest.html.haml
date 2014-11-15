@@ -1,0 +1,19 @@
+.latest<>
+  .container<>
+    .title<>
+      = "{% if include.language %}"
+      = "{% assign language = include.language %}"
+      = "{% else %}"
+      = "{% assign language = page.language %}"
+      = "{% endif %}"
+      = "{% if language == 'zh' %}"
+      %h2<> 近期博文
+      %p<> 请到前往<a href="/存档/">博客存档</a>查看所有文章.
+      = "{% else %}"
+      %h2<> Latest posts
+      %p<> For a complete list of posts, please see <a href="/archive/">blog archive</a>.
+      = "{% endif %}"
+    %ul.posts<>
+      = "{% for post in include.posts limit:3 %}"
+      = "{% include post.html post=post %}"
+      = "{% endfor %}"

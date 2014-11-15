@@ -1,0 +1,11 @@
+%ul.posts<>
+  = "{% for post in include.posts %}"
+  = "{% assign year = post.date | date: '%Y' %}"
+  = "{% if year != previous %}"
+  %li.archive-header<>
+    %a.title{name: "{{ year }}", href: "\#{{ year }}"}<>
+      %h2<> {{ year }}
+  = "{% endif %}"
+  = "{% include post.html post=post %}"
+  = "{% assign previous = year %}"
+  = "{% endfor %}"

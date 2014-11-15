@@ -1,0 +1,30 @@
+---
+layout: none
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>{{ site.url }}/</id>
+<link href="{{ site.url }}/" />
+<link href="{{ site.url }}{{ page.url }}" rel="self" />
+<updated>{{ site.time | date_to_xmlschema }}</updated>
+<icon>{{ site.static_url }}/img/logo.png</icon>
+<logo>{{ site.static_url }}/img/logo.png</logo>
+<title>{{ site.title.zh | xml_escape }}</title>
+<subtitle>{{ site.subtitle.zh | xml_escape }}</subtitle>
+<author>
+<name>{{ site.author.name | xml_escape }}</name>
+<email>{{ site.author.email | xml_escape }}</email>
+<uri>{{ site.url }}</uri>
+</author>
+{% for post in site.categories.zh %}
+<entry>
+<id>{{ site.url }}{{ post.id }}</id>
+<link href="{{ site.url }}{{ post.url }}"/>
+<updated>{{ post.date | date_to_xmlschema }}</updated>
+<title>{{ post.title }}</title>
+<content type="html">{{ post.content | xml_escape }}</content>
+{% for category in post.categories %}<category term="{{ category }}" />{% endfor %}
+</entry>
+{% endfor %}
+</feed>

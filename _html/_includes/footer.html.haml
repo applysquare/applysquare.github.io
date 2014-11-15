@@ -1,0 +1,95 @@
+#footer.footer<>
+  .footer-content<>
+    .container<>
+      .row<>
+        .col-sm-6<>
+          %a.twitter{href: "https://twitter.com/applysquare", target: "_blank"}<>
+            %i.fa.fa-twitter<>
+          %ul.tweets<>
+            = "{% for tweet in site.data.tweets limit:3 %}"
+            %li.tweet<>
+              %a{href: "https://twitter.com/applysquare/status/{{ tweet.id }}", target: "_blank"}<>
+                %p<> {{ tweet.text }}
+                %strong.js-autotimestamp{"data-timestamp" => "{{ tweet.timestamp }}"}<>
+                  {{ '@applysquare · ' }}
+                  %span<>
+            = "{% endfor %}"
+  .footer-bottom<>
+    .container<>
+      .footer-tree<>
+      .footer-menu<>
+        .row<>
+          .col-sm-3<>
+            %ul{lang: "en"}<>
+              %li<>
+                %strong<> Hello
+              %li<>
+                %a{href: "/"}<> Welcome
+              %li<>
+                %a{href: "/about/"}<> About
+              %li<>
+                %a{href: "/contact/"}<> Contact
+              %li<>
+                %a{href: "/archive/"}<> Archive
+              %li<>
+                %a{href: "{{ site.feed.en }}", target: "_blank"}<> Feed
+            %ul.hide{lang: "zh"}<>
+              %li<>
+                %strong<> 我是子颜
+              %li<>
+                %a{href: "/"}<> 欢迎
+              %li<>
+                %a{href: "/关于/"}<> 关于
+              %li<>
+                %a{href: "/联系/"}<> 联系我
+              %li<>
+                %a{href: "/存档/"}<> 存档
+              %li<>
+                %a{href: "{{ site.feed.zh }}", target: "_blank"}<> 订阅
+          .col-sm-3<>
+            %ul<>
+              %li<>
+                %strong{lang: "en"}<> Projects
+                %strong.hide{lang: "zh"}<> 项目
+              %li<>
+                %a{href: "/2014/04/web-content-extraction-through-machine-learning/"}<> Web Content Extraction
+              %li<>
+                %a{href: "/2010/01/secure-wireless-door-lock/"}<> Wireless Door Lock
+              %li<>
+                %a{href: "/jquery-sandbox/", target: "_blank"}<> jQuery Sandbox
+          .col-sm-3<>
+            %ul<>
+              %li<>
+                %strong{lang: "en"}<> Links
+                %strong.hide{lang: "zh"}<> 链接
+              %li<>
+                %a{href: "https://twitter.com/applysquare", target: "_blank"}<> Twitter
+              %li<>
+                %a{href: "https://www.facebook.com/applysquare", target: "_blank"}<> Facebook
+              %li<>
+                %a{href: "https://www.google.com/+applysquare", target: "_blank"}<> Google+
+              %li<>
+                %a{href: "https://github.com/applysquare", target: "_blank"}<> Github
+          .col-sm-3<>
+            %ul{lang: "en"}<>
+              %li<>
+                %strong<> 我是子颜
+              %li<>
+                %a{href: "/关于/"}<> 关于
+              %li<>
+                %a{href: "/联系/"}<> 联系我
+              %li<>
+                %a{href: "/存档/"}<> 存档
+              %li<>
+                %a{href: "{{ site.feed.zh }}", target: "_blank"}<> 订阅
+            %ul.hide{lang: "zh"}<>
+              %li<>
+                %strong<> Hello
+              %li<>
+                %a{href: "/about/"}<> About
+              %li<>
+                %a{href: "/contact/"}<> Contact
+              %li<>
+                %a{href: "/archive/"}<> Archive
+              %li<>
+                %a{href: "{{ site.feed.en }}", target: "_blank"}<> Feed

@@ -1,0 +1,16 @@
+== ---
+layout: html
+== ---
+= "\n\n"
+
+.progress.loading.js-loading<>
+  .progress-bar<>
+
+#base.base<>
+  = "{% if page.is_post %}"
+  %a.logo{href: "/"}<>
+  = "{% endif %}"
+  .content<> {{ content }}
+= "{% include footer.html %}"
+
+%div<>

@@ -1,0 +1,42 @@
+== ---
+layout: base
+is_post: true
+== ---
+= "\n\n"
+
+%article.post.js-post<>
+  %section.cover.post-cover.js-cover<>
+    = "{% capture cover %}{% if page.cover %}{% if page.cover contains '/' %}{{ page.cover }}{% else %}{{ site.static_url }}/img/cover/{{ page.cover }}{% endif %}{% else %}{{ site.static_url }}/img/cover/city.jpg{% endif %}{% endcapture %}"
+    .background{style: "background-image: url('{{ cover }}')"}<>
+      %img.collapsed{src: "{{ cover }}", width: "100%"}<>/
+    .overlay<>
+    .inner<>
+      .container<>
+        .post-title<>
+          = "{% if page.language == 'zh' %}"
+          %strong<> {{ page.date | date: '%Y 年 %m 月 %d 日' }}
+          = "{% else %}"
+          %strong<> {{ page.date | date_to_long_string }}
+          = "{% endif %}"
+          %h1<> {{ page.title }}
+          = "{% if page.subtitle %}"
+          %h2<> {{ page.subtitle }}
+          = "{% else %}"
+          %h2<> {{ page.excerpt | markdownify | strip_html | strip_newlines | truncatewords: 20, ' ...' }}
+          = "{% endif %}"
+  %section.post-content.js-post-content<>
+    .container<>
+      = "\n\n{{ content }}\n\n"
+  %section.post-footer<>
+    .container<>
+      = "{% if page.path contains '_posts/20' %}"
+      = "{% include disqus.html %}"
+      = "{% endif %}"
+
+= "{% if page.language == 'zh' %}"
+= "{% include related.html posts=site.categories.zh post=page %}"
+= "{% else %}"
+= "{% include related.html posts=site.categories.en post=page %}"
+= "{% endif %}"
+
+%div<>

@@ -1,0 +1,14 @@
+== ---
+layout: base
+title: Archive
+language: en
+permalink: /archive/
+== ---
+= "\n\n"
+
+= "{% include welcome.html %}"
+
+.archive<>
+  .container<>
+    .archive-posts<>
+      = "{% include archive.html posts=site.categories.en %}"

@@ -1,0 +1,19 @@
+== ---
+layout: base
+title: About
+language: en
+permalink: /about/
+== ---
+= "\n\n"
+
+= "{% include welcome.html content='<h1>Hello, I\\'m <a href=\"/about/\">ApplySquare</a>, a great tool for your graduation school application.</h1><h2>Bla bla bla.</h2>' %}"
+
+.about<>
+  .container<>
+    .title<>
+      %h2<> About
+      %p<> Feel free to reach out to me on the <a href="/contact/">contact me</a> page.
+
+= "{% include latest.html posts=site.categories.en language='en' %}"
+
+%div<>

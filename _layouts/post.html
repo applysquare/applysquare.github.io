@@ -1,0 +1,10 @@
+---
+layout: base
+is_post: true
+---
+
+<article class="post js-post"><section class="cover post-cover js-cover">{% capture cover %}{% if page.cover %}{% if page.cover contains '/' %}{{ page.cover }}{% else %}{{ site.static_url }}/img/cover/{{ page.cover }}{% endif %}{% else %}{{ site.static_url }}/img/cover/city.jpg{% endif %}{% endcapture %}<div class="background" style="background-image: url('{{ cover }}')"><img class="collapsed" src="{{ cover }}" width="100%"></div><div class="overlay"></div><div class="inner"><div class="container"><div class="post-title">{% if page.language == 'zh' %}<strong>{{ page.date | date: '%Y 年 %m 月 %d 日' }}</strong>{% else %}<strong>{{ page.date | date_to_long_string }}</strong>{% endif %}<h1>{{ page.title }}</h1>{% if page.subtitle %}<h2>{{ page.subtitle }}</h2>{% else %}<h2>{{ page.excerpt | markdownify | strip_html | strip_newlines | truncatewords: 20, ' ...' }}</h2>{% endif %}</div></div></div></section><section class="post-content js-post-content"><div class="container">
+
+{{ content }}
+
+</div></section><section class="post-footer"><div class="container">{% if page.path contains '_posts/20' %}{% include disqus.html %}{% endif %}</div></section></article>{% if page.language == 'zh' %}{% include related.html posts=site.categories.zh post=page %}{% else %}{% include related.html posts=site.categories.en post=page %}{% endif %}<div></div>

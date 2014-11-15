@@ -1,0 +1,28 @@
+== ---
+layout: base
+title: 联系
+language: zh
+permalink: /联系/
+== ---
+= "\n\n"
+
+= "{% include welcome.html %}"
+
+.contact<>
+  .contact-content<>
+    .container<>
+      .title<>
+        %h2<> 联系
+        %p<> 如需联系我, 最简单的方式是通过在本页下方的评论框内发表公开的留言. 你也可以直接给我发送电子邮件. 电子邮件不必非得加密.
+
+  .contact-pgp<>
+    .container<>
+      = "{% for contact in site.data.contact %}"
+      = "{% if contact.language == page.language %}"
+      %pre<> {{ contact.pgp }}
+      = "{% endif %}"
+      = "{% endfor %}"
+
+  .contact-disqus<>
+    .container<>
+      = "{% include disqus.html %}"

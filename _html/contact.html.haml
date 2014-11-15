@@ -1,0 +1,28 @@
+== ---
+layout: base
+title: Contact
+language: en
+permalink: /contact/
+== ---
+= "\n\n"
+
+= "{% include welcome.html %}"
+
+.contact<>
+  .contact-content<>
+    .container<>
+      .title<>
+        %h2<> Contact
+        %p<> There are several ways to promptly reach me. The easiest way is to leave a public comment below. However if you prefer, you may also send me a private email. Encryption is optional.
+
+  .contact-pgp<>
+    .container<>
+      = "{% for contact in site.data.contact %}"
+      = "{% if contact.language == page.language %}"
+      %pre<> {{ contact.pgp }}
+      = "{% endif %}"
+      = "{% endfor %}"
+
+  .contact-disqus<>
+    .container<>
+      = "{% include disqus.html %}"

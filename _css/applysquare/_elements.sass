@@ -1,0 +1,93 @@
+html
+  background: #f3f3f3 url("/static/img/bg-gray.png")
+  height: 100%
+
+body
+  position: relative
+  height: 100%
+  background: transparent
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif
+  font-weight: 400
+
+a
+  outline: none
+  color: #4b67a0
+  &:hover, &:focus
+    color: #4b67a0
+    outline: none
+
+.carousel
+
+  .carousel-indicators li
+    background-color: #fff
+    margin: 1px 5px
+    +opacity(0.5)
+    &.active
+      margin: 0px 4px
+      +opacity(0.9)
+
+  .carousel-inner
+    .item
+      img
+        width: 100%
+
+  .carousel-control:last-child
+    left: auto
+    right: 0
+
+//
+// Utilities.
+//
+
+.ellipsis
+  overflow: hidden
+  text-overflow: ellipsis
+  white-space: nowrap
+
+.sp-left
+  margin-left: 5px
+
+.sp-right
+  margin-right: 5px
+
+p.note
+  color: #999
+  text-shadow: 0 1px 0 rgba(255,255,255, 0.65)
+
+.container
+  position: relative
+  max-width: 700px
+
+//
+// Loading progress
+//
+
+.loading
+  position: fixed
+  top: 0
+  left: 0
+  right: 0
+  width: 100%
+  height: 4px
+  margin: 0
+  z-index: 1000
+  background: transparent
+  +border-radius(0)
+  +box-shadow(none)
+
+  .progress-bar
+    width: 100%
+    background-color: #4b67a0
+    +box-shadow(none)
+
+.title
+  display: block
+  padding: 50px 0
+  h2
+    color: #4b67a0
+    font-size: 40px
+    margin: 0
+    margin-bottom: 5px
+    padding: 0
+    font-weight: 300
+

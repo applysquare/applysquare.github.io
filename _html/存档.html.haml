@@ -1,0 +1,14 @@
+== ---
+layout: base
+title: 存档
+language: zh
+permalink: /存档/
+== ---
+= "\n\n"
+
+= "{% include welcome.html %}"
+
+.archive<>
+  .container<>
+    .archive-posts<>
+      = "{% include archive.html posts=site.categories.zh %}"

@@ -1,0 +1,22 @@
+.base
+  position: relative
+  height: auto !important
+  min-height: 100%
+  > a.logo
+    display: block
+    width: 50px
+    height: 50px
+    background: transparent url("/static/img/logo.png")
+    background-size: 50px 50px
+    position: fixed
+    top: 14px
+    left: 10px
+    z-index: 100
+  .content
+    position: relative
+    min-height: 100%
+
+@media (max-width: 767px)
+  .base
+    > a.logo
+      position: absolute

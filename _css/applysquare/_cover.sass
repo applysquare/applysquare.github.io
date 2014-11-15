@@ -1,0 +1,52 @@
+
+.cover
+  position: relative
+  background: #333
+  overflow: hidden
+  > .overlay, > .inner
+    position: absolute
+    left: 0
+    right: 0
+    bottom: 0
+    width: 100%
+    z-index: 5
+  > .background
+    min-height: 400px
+    overflow: hidden
+    background-position: center center
+    background-repeat: no-repeat
+    background-size: cover
+    > img
+      position: relative
+      width: 100%
+      height: auto
+      bottom: 0
+      left: 0
+      right: 0
+      display: block
+      background: #333
+      &.collapsed
+        position: absolute
+  > .overlay
+    z-index: 5
+    height: 400px
+    +background-image(linear-gradient(transparent 0%, rgba(0,0,0,0.3) 30%, rgba(0,0,0,0.5) 50%, rgba(0,0,0,0.8) 100%))
+
+@media (max-width: 767px)
+  .cover
+    > .background
+      position: absolute
+      top: 0
+      left: 0
+      bottom: 0
+      right: 0
+      min-height: auto
+      > img
+        display: none
+    > .overlay
+      top: 0
+      height: auto
+    > .inner
+      position: relative
+      height: auto
+      padding-top: 100px
