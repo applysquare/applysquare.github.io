@@ -3,14 +3,11 @@
     -----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA1
 
-    My E-mail address is:
-    >>> '@'.join(['zhou', '.'.join(['ziyan', 'info'])])
+    Please contact ApplySquare at:
+    hello@applysquare.com
 
-    Or, equivalently:
-    >>> '%s@%s.%s' % ('zhou', 'ziyan', 'info')
-
-    Search for "Ziyan Zhou" to find my latest PGP key.
-    My current key is E769D175.
+    Search for "ApplySquare" to find our latest PGP key.
+    Current key is E769D175.
 
     -----BEGIN PGP SIGNATURE-----
     Version: GnuPG v1.4.11 (GNU/Linux)
@@ -34,14 +31,11 @@
     -----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA1
 
-    我的电子邮件地址是:
-    >>> '@'.join(['zhou', '.'.join(['ziyan', 'info'])])
+    请通过以下电子邮件地址联系申请方:
+    hello@applysquare.com
 
-    或者说是:
-    >>> '%s@%s.%s' % ('zhou', 'ziyan', 'info')
-
-    你可以通过搜索 "Ziyan Zhou" 找到我最新的 PGP 公匙.
-    我目前的公匙是 E769D175.
+    你可以通过搜索 "ApplySquare" 找到我们最新的 PGP 公匙.
+    目前公匙是 E769D175.
 
     -----BEGIN PGP SIGNATURE-----
     Version: GnuPG v1.4.11 (GNU/Linux)
