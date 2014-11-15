@@ -1,0 +1,9 @@
+language: ruby
+install:
+  - sudo apt-get install coffeescript yui-compressor -y
+  - bundle install
+script:
+  - make clean
+  - make
+  - jekyll build
+
