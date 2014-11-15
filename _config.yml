@@ -16,10 +16,10 @@ repository: https://github.com/applysquare/applysquare.github.io
 feed:
   en: http://feeds.applysquare.net/applysquare/en
   zh: http://feeds.applysquare.net/applysquare/zh
-static_url: //d2b94ji4cu0rx3.cloudfront.net/static
-media_url: //d2b94ji4cu0rx3.cloudfront.net/media
+static_url: /static
+media_url: /media
 
-debug: true
+debug: false
 analytics: 
 
 lsi: false
