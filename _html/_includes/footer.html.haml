@@ -1,22 +1,6 @@
 #footer.footer<>
-  .footer-content<>
-    .container<>
-      .row<>
-        .col-sm-6<>
-          %a.twitter{href: "https://twitter.com/applysquare", target: "_blank"}<>
-            %i.fa.fa-twitter<>
-          %ul.tweets<>
-            = "{% for tweet in site.data.tweets limit:3 %}"
-            %li.tweet<>
-              %a{href: "https://twitter.com/applysquare/status/{{ tweet.id }}", target: "_blank"}<>
-                %p<> {{ tweet.text }}
-                %strong.js-autotimestamp{"data-timestamp" => "{{ tweet.timestamp }}"}<>
-                  {{ '@applysquare · ' }}
-                  %span<>
-            = "{% endfor %}"
   .footer-bottom<>
     .container<>
-      .footer-tree<>
       .footer-menu<>
         .row<>
           .col-sm-3<>
@@ -54,11 +38,13 @@
                 %strong{lang: "en"}<> Projects
                 %strong.hide{lang: "zh"}<> 项目
               %li<>
-                %a{href: "/2014/04/web-content-extraction-through-machine-learning/"}<> Web Content Extraction
+                %a{href: "https://www.applysquare.com/", target: "_blank"}<>
+                  %span{lang: "en"} ApplySquare
+                  %span.hide{lang: "zh"} 申请方
               %li<>
-                %a{href: "/2010/01/secure-wireless-door-lock/"}<> Wireless Door Lock
-              %li<>
-                %a{href: "/jquery-sandbox/", target: "_blank"}<> jQuery Sandbox
+                %a{href: "http://www.a2plan.com/", target: "_blank"}<>
+                  %span{lang: "en"} Consulting Services
+                  %span.hide{lang: "zh"} 咨询服务
           .col-sm-3<>
             %ul<>
               %li<>
