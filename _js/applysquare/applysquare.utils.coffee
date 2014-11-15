@@ -16,7 +16,7 @@ applysquare.namespace 'applysquare.utils', (exports) ->
       window['GoogleAnalyticsObject'] = 'ga'
       window.ga = window.ga or -> (window.ga.q = window.ga.q or []).push arguments
       window.ga.l = 1 * new Date()
-      window.ga 'create', account, 'applysquare.net'
+      window.ga 'create', account, 'blog.applysquare.com'
       load '//www.google-analytics.com/analytics.js'
 
     window.ga 'send', 'pageview',
