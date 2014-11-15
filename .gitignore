@@ -24,4 +24,3 @@ _js/applysquare.js
 *.sass.css
 .sass-cache
 
-Gemfile.lock
