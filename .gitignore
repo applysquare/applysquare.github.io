@@ -17,8 +17,8 @@ _site/
 tmp
 
 # generated
-_css/ziyan.css
-_js/ziyan.js
+_css/applysquare.css
+_js/applysquare.js
 
 *.coffee.js
 *.sass.css
