@@ -4,7 +4,7 @@ title:
 subtitle:
   en: "ApplySquare."
   zh: "你好, 我是申请方."
-keywords: ApplySquare,申请方
+keywords: "ApplySquare,申请方"
 author:
   name: ApplySquare
   email: hello@applysquare.com
@@ -14,13 +14,13 @@ encoding: utf-8
 url: http://blog.applysquare.com
 repository: https://github.com/applysquare/applysquare.github.io
 feed:
-  en: http://feeds.applysquare.net/ziyan/en
-  zh: http://feeds.applysquare.net/ziyan/zh
+  en: http://feeds.applysquare.net/applysquare/en
+  zh: http://feeds.applysquare.net/applysquare/zh
 static_url: //d2b94ji4cu0rx3.cloudfront.net/static
 media_url: //d2b94ji4cu0rx3.cloudfront.net/media
 
 debug: true
-analytics: UA-34085887-1
+analytics: 
 
 lsi: false
 safe: true
