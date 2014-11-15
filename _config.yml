@@ -20,7 +20,7 @@ static_url: http://blog.applysquare.com/static
 media_url: http://blog.applysquare.com/media
 
 debug: false
-analytics: 
+analytics: UA-41044126-5
 
 lsi: false
 safe: true
