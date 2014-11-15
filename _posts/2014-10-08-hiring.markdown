@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 从一开始，从2而终；这能招到牛人嘛
+title: 从一开始，从 2 而终；这能招到牛人嘛
 subtitle: 申请方团队想招人，也麻烦帮助转发扩散一下。
 language: zh
 categories: [zh]
@@ -53,7 +53,7 @@ cover: droplets.jpg
 
 我们的地点不偏僻： 在五道口清华东门；
 
-如果您更直接，也可以添加我们CEO的微信聊：expectwg。
+如果您更直接，也可以添加我们 CEO 的微信聊：expectwg。
 
 某年冬天，我们在加勒比海留了下面的照片，9 月 19 日阿里上市，人家也有类似的一张。我们搭人家的知名度翻出自己的这张挂出来，就是想表达一下我们的想法。
 
@@ -66,23 +66,23 @@ ApplySquare (申请方) 团队
 
 * 前端工程师
 * 后台工程师
-* iOS开发工程师
-* Andriod开发工程师
+* iOS 开发工程师
+* Andriod 开发工程师
 * 系统架构师
-* 移动QA工程师
+* 移动 QA 工程师
 * 产品经理
-* UI设计师
+* UI 设计师
 * 数据挖掘专员/实习生
 * 数据分析师
 * 数据库架构工程师
 * 数据库开发工程师
 * 平面美工设计师
 * 漫画师
-* 移动商务合作经理(APP渠道推广)
+* 移动商务合作经理 (APP渠道推广)
 * 校园大使
 * 校园推广经理
 * 社会化内容运营经理/实习生
-* ApplySquare实习生/管培生
+* ApplySquare 实习生/管培生
 
 更多信息请点击： <https://www.applysquare.com/join/>
 
@@ -95,7 +95,7 @@ ApplySquare (申请方) 团队
 * 标准化考试专家
 * 专业数据分析师
 * Essay / Paper Writing Professionals
-* Admission Officer高级顾问
+* Admission Officer 高级顾问
 * 国外教职高级顾问
 * 国内教职高级顾问
 * 留学业务商务拓展
