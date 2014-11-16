@@ -2,27 +2,27 @@
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 300;
-  src: url('../font/opensans/300.eot');
-  src: local('Open Sans Light'), local('OpenSans-Light'), url('../font/opensans/300.eot?#iefix') format('embedded-opentype'), url('../font/opensans/300.woff') format('woff'), url('../font/opensans/300.ttf') format('truetype');
+  src: url('/static/font/opensans/300.eot');
+  src: local('Open Sans Light'), local('OpenSans-Light'), url('/static/font/opensans/300.eot?#iefix') format('embedded-opentype'), url('/static/font/opensans/300.woff') format('woff'), url('/static/font/opensans/300.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 400;
-  src: url('../font/opensans/400.eot');
-  src: local('Open Sans'), local('OpenSans'), url('../font/opensans/400.eot?#iefix') format('embedded-opentype'), url('../font/opensans/400.woff') format('woff'), url('../font/opensans/400.ttf') format('truetype');
+  src: url('/static/font/opensans/400.eot');
+  src: local('Open Sans'), local('OpenSans'), url('/static/font/opensans/400.eot?#iefix') format('embedded-opentype'), url('/static/font/opensans/400.woff') format('woff'), url('/static/font/opensans/400.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 700;
-  src: url('../font/opensans/700.eot');
-  src: local('Open Sans Bold'), local('OpenSans-Bold'), url('../font/opensans/700.eot?#iefix') format('embedded-opentype'), url('../font/opensans/700.woff') format('woff'), url('../font/opensans/700.ttf') format('truetype');
+  src: url('/static/font/opensans/700.eot');
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url('/static/font/opensans/700.eot?#iefix') format('embedded-opentype'), url('/static/font/opensans/700.woff') format('woff'), url('/static/font/opensans/700.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 800;
-  src: url('../font/opensans/800.eot');
-  src: local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url('../font/opensans/800.eot?#iefix') format('embedded-opentype'), url('../font/opensans/800.woff') format('woff'), url('../font/opensans/800.ttf') format('truetype');
+  src: url('/static/font/opensans/800.eot');
+  src: local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url('/static/font/opensans/800.eot?#iefix') format('embedded-opentype'), url('/static/font/opensans/800.woff') format('woff'), url('/static/font/opensans/800.ttf') format('truetype');
 }
