@@ -1,10 +1,12 @@
 APPLYSQUARE_TARGET = applysquare.js
 APPLYSQUARE_SOURCES = \
 	debug.js \
+	jquery/jquery.js \
 	jquery/jquery.livequery.js \
 	jquery/jquery.imagesloaded.js \
 	jquery/jquery.pjax.coffee.js \
 	jquery/jquery.autotimestamp.coffee.js \
+	bootstrap/bootstrap.js \
 	applysquare/applysquare.coffee.js \
 	applysquare/applysquare.utils.coffee.js \
 	applysquare/applysquare.language.coffee.js \
@@ -16,7 +18,7 @@ all:  ../static/js/$(APPLYSQUARE_TARGET)
 
 ../static/js/$(APPLYSQUARE_TARGET): $(APPLYSQUARE_TARGET)
 	mkdir -p ../static/js
-	cat $(APPLYSQUARE_TARGET) | yui-compressor --type js > ../static/js/$(APPLYSQUARE_TARGET)
+	cat $(APPLYSQUARE_TARGET) | sed 's/\/\*!/\/**/g' | yui-compressor --type js > ../static/js/$(APPLYSQUARE_TARGET)
 
 $(APPLYSQUARE_TARGET): $(APPLYSQUARE_SOURCES)
 	cat $(APPLYSQUARE_SOURCES) > $(APPLYSQUARE_TARGET)
