@@ -3,79 +3,92 @@
     .container<>
       .footer-menu<>
         .row<>
-          .col-sm-3<>
-            %ul{lang: "en"}<>
-              %li<>
-                %strong<> Hello
-              %li<>
-                %a{href: "/"}<> Welcome
-              %li<>
-                %a{href: "/about/"}<> About
-              %li<>
-                %a{href: "/contact/"}<> Contact
-              %li<>
-                %a{href: "/archive/"}<> Archive
-              %li<>
-                %a{href: "{{ site.feed.en }}", target: "_blank"}<> Feed
-            %ul.hide{lang: "zh"}<>
-              %li<>
-                %strong<> 我是方方
-              %li<>
-                %a{href: "/"}<> 欢迎
-              %li<>
-                %a{href: "/关于/"}<> 关于
-              %li<>
-                %a{href: "/联系/"}<> 联系我
-              %li<>
-                %a{href: "/存档/"}<> 存档
-              %li<>
-                %a{href: "{{ site.feed.zh }}", target: "_blank"}<> 订阅
-          .col-sm-3<>
+          .col-sm-3.col-xs-6<>
             %ul<>
               %li<>
-                %strong{lang: "en"}<> Projects
-                %strong.hide{lang: "zh"}<> 项目
+                %strong{lang: "en"}<> Join Us
+                %strong.hide{lang: "zh"}<> 加入我们
               %li<>
-                %a{href: "https://www.applysquare.com/", target: "_blank"}<>
-                  %span{lang: "en"} ApplySquare
-                  %span.hide{lang: "zh"} 申请方
+                %a{href: "https://www.applysquare.com/join/", target: "_blank"}<>
+                  %span{lang: "en"}<> Job Positions
+                  %span.hide{lang: "zh"}<> 工作机会
               %li<>
-                %a{href: "http://www.a2plan.com/", target: "_blank"}<>
-                  %span{lang: "en"} Consulting Services
-                  %span.hide{lang: "zh"} 咨询服务
-          .col-sm-3<>
+                %a{href: "https://www.applysquare.com/campus-rep/", target: "_blank"}<>
+                  %span{lang: "en"}<> Campus Representative
+                  %span.hide{lang: "zh"}<> 校园大使
+              %li<>
+                %a{href: "https://www.applysquare.com/applysquarefamily/", target: "_blank"}<>
+                  %span{lang: "en"}<> ApplySquare Family Trip
+                  %span.hide{lang: "zh"}<> 环球旅行计划
+              %li<>
+                %a{href: "https://www.applysquare.com/contact/", target: "_blank"}<>
+                  %span{lang: "en"}<> Contact Us
+                  %span.hide{lang: "zh"}<> 联系我们
+          .col-sm-3.col-xs-6.visible-sm.visible-md.visible-lg<>
             %ul<>
               %li<>
-                %strong{lang: "en"}<> Links
-                %strong.hide{lang: "zh"}<> 链接
+                %strong{lang: "en"}<> Follow Us
+                %strong.hide{lang: "zh"}<> 关注我们
               %li<>
-                %a{href: "https://twitter.com/applysquare", target: "_blank"}<> Twitter
+                %a{href: "http://www.weibo.com/applysq/", target: "_blank"}<>
+                  %span{lang: "en"}<> Weibo
+                  %span.hide{lang: "zh"}<> 新浪微博
               %li<>
-                %a{href: "https://www.facebook.com/applysquare", target: "_blank"}<> Facebook
+                %a{href: "http://page.renren.com/601739278/", target: "_blank"}<>
+                  %span{lang: "en"}<> Renren
+                  %span.hide{lang: "zh"}<> 人人网
               %li<>
-                %a{href: "https://www.google.com/+applysquare", target: "_blank"}<> Google+
+                %a{href: "https://twitter.com/applysquare/", target: "_blank"}<>
+                  %span{lang: "en"}<> Twitter
+                  %span.hide{lang: "zh"}<> Twitter
               %li<>
-                %a{href: "https://github.com/applysquare", target: "_blank"}<> Github
-          .col-sm-3<>
-            %ul{lang: "en"}<>
+                %a{href: "https://www.facebook.com/applysquare/", target: "_blank"}<>
+                  %span{lang: "en"}<> Facebook
+                  %span.hide{lang: "zh"}<> Facebook
+          .col-sm-3.col-xs-6<>
+            %ul<>
               %li<>
-                %strong<> 我是方方
+                %strong{lang: "en"}<> Consulting
+                %strong.hide{lang: "zh"}<> 咨询服务
               %li<>
-                %a{href: "/关于/"}<> 关于
+                %a{href: "http://a2plan.com/", target: "_blank"}<>
+                  %span{lang: "en"}<> Overview
+                  %span.hide{lang: "zh"}<> 概况
               %li<>
-                %a{href: "/联系/"}<> 联系我
+                %a{href: "http://a2plan.com/packages/", target: "_blank"}<>
+                  %span{lang: "en"}<> Student
+                  %span.hide{lang: "zh"}<> 学生
               %li<>
-                %a{href: "/存档/"}<> 存档
+                %a{href: "http://a2plan.com/faculty/", target: "_blank"}<>
+                  %span{lang: "en"}<> Faculty
+                  %span.hide{lang: "zh"}<> 教职
+          .col-sm-3.col-xs-6.visible-sm.visible-md.visible-lg<>
+            %ul<>
               %li<>
-                %a{href: "{{ site.feed.zh }}", target: "_blank"}<> 订阅
-            %ul.hide{lang: "zh"}<>
+                %strong{lang: "en"}<> Legal
+                %strong.hide{lang: "zh"}<> 法律法规
               %li<>
-                %strong<> Hello
+                %a{href: "https://www.applysquare.com/terms/", target: "_blank"}<>
+                  %span{lang: "en"}<> Terms of Service
+                  %span.hide{lang: "zh"}<> 服务条款
               %li<>
-                %a{href: "/about/"}<> About
-              %li<>
-                %a{href: "/contact/"}<> Contact
-              %li<>
-                %a{href: "/archive/"}<> Archive
-              %li<>
-                %a{href: "{{ site.feed.en }}", target: "_blank"}<> Feed
+                %a{href: "https://www.applysquare.com/privacy/", target: "_blank"}<>
+                  %span{lang: "en"}<> Privacy Policy
+                  %span.hide{lang: "zh"}<> 
+    .banner.visible-xs.visible-sm
+      .container<>
+        .col-xs-8
+          .logo.pull-left
+            %a{href: 'https://www.applysquare.com/'}
+              %i.pull-left
+          %h1.ellipsis{lang: "en"}<> ApplySquare
+          %h1.hide.ellipsis{lang: "zh"}<> 申请方
+          %p.ellipsis{lang: "en"}<> Download app for best experience
+          %p.hide.ellipsis{lang: "zh"}<> 下载申请方APP，获取更多功能。
+        .col-xs-4
+          %button.pull-right.close{type: 'button'}
+            %i.icon-remove
+          %a.pull-right.btn.btn-success.sp-right{href: "https://www.applysquare.com/app/"}<>
+            %span{lang: 'en'}<> Download
+            %span.hide{lang: 'zh'}<> 下载
+

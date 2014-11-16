@@ -27,11 +27,6 @@ is_post: true
   %section.post-content.js-post-content<>
     .container<>
       = "\n\n{{ content }}\n\n"
-  %section.post-footer<>
-    .container<>
-      = "{% if page.path contains '_posts/20' %}"
-      = "{% include disqus.html %}"
-      = "{% endif %}"
 
 = "{% if page.language == 'zh' %}"
 = "{% include related.html posts=site.categories.zh post=page %}"
