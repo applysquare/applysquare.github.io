@@ -13,6 +13,9 @@ encoding: utf-8
 
 url: http://blog.applysquare.com
 repository: https://github.com/applysquare/applysquare.github.io
+feed:
+  en: http://blog.applysquare.com/feed.xml
+  zh: http://blog.applysquare.com/订阅.xml
 static_url: /static
 media_url: /media
 
