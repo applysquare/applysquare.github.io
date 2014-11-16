@@ -16,8 +16,8 @@ repository: https://github.com/applysquare/applysquare.github.io
 feed:
   en: http://blog.applysquare.com/feed.xml
   zh: http://blog.applysquare.com/订阅.xml
-static_url: http://applysquare-blog.qiniudn.com/static
-media_url: http://applysquare-blog.qiniudn.com/media
+static_url: /static
+media_url: /media
 
 debug: false
 analytics: UA-41044126-5
