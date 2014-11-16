@@ -9,19 +9,19 @@
                 %strong{lang: "en"}<> Join Us
                 %strong.hide{lang: "zh"}<> 加入我们
               %li<>
-                %a{href: "https://www.applysquare.com/join/", target: "_blank"}<>
+                %a{href: "{{ site.www_url }}/join/", target: "_blank"}<>
                   %span{lang: "en"}<> Job Positions
                   %span.hide{lang: "zh"}<> 工作机会
               %li<>
-                %a{href: "https://www.applysquare.com/campus-rep/", target: "_blank"}<>
+                %a{href: "{{ site.www_url }}/campus-rep/", target: "_blank"}<>
                   %span{lang: "en"}<> Campus Representative
                   %span.hide{lang: "zh"}<> 校园大使
               %li<>
-                %a{href: "https://www.applysquare.com/applysquarefamily/", target: "_blank"}<>
+                %a{href: "{{ site.www_url }}/applysquarefamily/", target: "_blank"}<>
                   %span{lang: "en"}<> ApplySquare Family Trip
                   %span.hide{lang: "zh"}<> 环球旅行计划
               %li<>
-                %a{href: "https://www.applysquare.com/contact/", target: "_blank"}<>
+                %a{href: "{{ site.www_url }}/contact/", target: "_blank"}<>
                   %span{lang: "en"}<> Contact Us
                   %span.hide{lang: "zh"}<> 联系我们
           .col-sm-3.col-xs-6.visible-sm.visible-md.visible-lg<>
@@ -68,27 +68,26 @@
                 %strong{lang: "en"}<> Legal
                 %strong.hide{lang: "zh"}<> 法律法规
               %li<>
-                %a{href: "https://www.applysquare.com/terms/", target: "_blank"}<>
+                %a{href: "{{ site.www_url }}/terms/", target: "_blank"}<>
                   %span{lang: "en"}<> Terms of Service
                   %span.hide{lang: "zh"}<> 服务条款
               %li<>
-                %a{href: "https://www.applysquare.com/privacy/", target: "_blank"}<>
+                %a{href: "{{ site.www_url }}/privacy/", target: "_blank"}<>
                   %span{lang: "en"}<> Privacy Policy
                   %span.hide{lang: "zh"}<> 
-    .banner.visible-xs.visible-sm
+    .banner.visible-xs.visible-sm<>
       .container<>
-        .col-xs-8
-          .logo.pull-left
-            %a{href: 'https://www.applysquare.com/'}
+        .col-xs-8<>
+          .logo.pull-left<>
+            %a{href: '{{ site.www_url }}/'}<>
               %i.pull-left
           %h1.ellipsis{lang: "en"}<> ApplySquare
           %h1.hide.ellipsis{lang: "zh"}<> 申请方
           %p.ellipsis{lang: "en"}<> Download app for best experience
           %p.hide.ellipsis{lang: "zh"}<> 下载申请方APP，获取更多功能。
-        .col-xs-4
-          %button.pull-right.close{type: 'button'}
-            %i.icon-remove
-          %a.pull-right.btn.btn-success.sp-right{href: "https://www.applysquare.com/app/"}<>
+        .col-xs-4<>
+          %button.pull-right.close{type: 'button'}<>
+            %i.icon-remove<>
+          %a.pull-right.btn.btn-success.sp-right{href: "{{ site.www_url }}/app/"}<>
             %span{lang: 'en'}<> Download
             %span.hide{lang: 'zh'}<> 下载
-
