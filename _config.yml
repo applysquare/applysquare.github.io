@@ -18,7 +18,7 @@ feed:
   zh: http://blog.applysquare.com/订阅.xml
 static_url: /static
 media_url: /media
-www_url: https://www.applysquare.com/
+www_url: https://www.applysquare.com
 
 debug: false
 analytics: UA-41044126-5
