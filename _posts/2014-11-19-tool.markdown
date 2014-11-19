@@ -1,8 +1,33 @@
 ---
 layout: post
-title: 申请方网申神器
-subtitle: 申请方团队想招人，也麻烦帮助转发扩散一下。
+title: 申请方－留学申请DIY神器
+subtitle: ''
 language: zh
 categories: [zh]
-cover: droplets.jpg
+cover: http://applysquare-media.qiniudn.com/cover/fog.jpg
 ---
+
+申请方基于云计算和大数据的相关技术，旨在为申请者提供高效、便捷的在线全方位入学申请解决方案。
+
+申请方目前覆盖34个国家的987所大学，涵盖56个研究领域，支持申请15652个学位项目，目前是世界上最大的offer（录取信息）平台和申请Case（案例）平台。申请方在线为申请者同时提供基于Web端与Mobile端（Android与IOS）的申请工具与数据分析支持，并提供学业、职业媒体资讯订阅与社交支持。
+
+【项目信息】为申请者提供全球各个知名高校的申请项目信息，并通过定期的自动抓取、手动更新或用户反馈等方式来维护信息的准确性和完整性，做到云同步与追踪。
+<img src="http://applysquare-media.qiniudn.com/2014/11/tool/program.jpg" width="240px" height="auto" />
+
+【任务清单与微课程】针对申请流程，为申请者提供量身定制的在线申请任务管理功能。内置套磁、推荐信、简历、成绩单、网申、提交英语成绩等申请进程的微课程，便于用户管理相应任务。并支持用户建立自定义任务和提醒事项，各项任务均已关联匹配到不同项目对应的录取要求。
+<img src="http://applysquare-media.qiniudn.com/2014/11/tool/tutorial.jpg" width="240px" height="auto" />
+
+<img src="http://applysquare-media.qiniudn.com/2014/11/tool/checklist.jpg" width="240px" height="auto" />
+
+【订阅资讯】申请方留学新闻资讯平台涵盖多重信息渠道，包括自选订阅资讯及“智在四方”栏目。
+<img src="http://applysquare-media.qiniudn.com/2014/11/tool/news.jpg" width="240px" height="auto" />
+
+【申请案例】网罗各类申请案例，并将文字描述数据结构化，易于申请者阅读及查询，方便申请者通过数据进行精准自我定位。
+<img src="http://applysquare-media.qiniudn.com/2014/11/tool/case.jpg" width="240px" height="auto" />
+
+【录取数据库】自动同步各类录取信息，针对用户申请项目智能推送相关结果，为用户提供进一步的数据服务。
+<img src="http://applysquare-media.qiniudn.com/2014/11/tool/offer.jpg" width="240px" height="auto" />
+
+欢迎通过以下方式联系我们：  
+官方网站：[www.applysquare.com](https://www.applysquare.com/)  
+微信号：applysquare 或直接搜索“申请方”添加
