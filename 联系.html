@@ -1,8 +1,0 @@
----
-layout: base
-title: 联系
-language: zh
-permalink: /联系/
----
-
-{% include welcome.html %}<div class="contact"><div class="contact-content"><div class="container"><div class="title"><h2>联系</h2><p>如需联系申请方, 最简单的方式是通过在本页下方的评论框内发表公开的留言. 您也可以直接给我们发送电子邮件. 电子邮件可以不加密.</p></div></div></div><div class="contact-pgp"><div class="container">{% for contact in site.data.contact %}{% if contact.language == page.language %}<pre>{{ contact.pgp }}</pre>{% endif %}{% endfor %}</div></div><div class="contact-disqus"><div class="container">{% include disqus.html %}</div></div></div>
