@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 申请方－留学申请DIY神器
-subtitle: ''
+subtitle: 申请方基于云计算和大数据的相关技术，旨在为申请者提供高效、便捷的在线全方位入学申请解决方案。
 language: zh
 categories: [zh]
 cover: http://applysquare-media.qiniudn.com/cover/fog.jpg
