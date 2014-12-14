@@ -1,0 +1,8 @@
+---
+layout: base
+title: 隐私权保护声明
+language: zh
+permalink: /隐私权保护声明/
+---
+
+<div>{% include welcome.html %}</div><div class="page"><div class="container"><div class="title"><h2>申请方隐私权保护声明</h2></div></div><div class="page-content"><div class="container">{% for privacy in site.data.privacy %}{% if privacy.language == page.language %}<div>{{ privacy.content | markdownify }}</div>{% endif %}{% endfor %}</div></div></div>

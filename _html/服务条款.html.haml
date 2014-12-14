@@ -1,0 +1,24 @@
+== ---
+layout: base
+title: 服务条款
+language: zh
+permalink: /服务条款/
+== ---
+= "\n\n"
+
+%div<>
+  = "{% include welcome.html %}"
+
+.page
+  .container<>
+    .title<>
+      %h2<> 申请方服务条款
+
+  .page-content<>
+    .container
+      = "{% for terms in site.data.terms %}"
+      = "{% if terms.language == page.language %}"
+      %div<> {{ terms.content | markdownify }}
+      = "{% endif %}"
+      = "{% endfor %}"
+
