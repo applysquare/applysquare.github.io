@@ -12,6 +12,7 @@ APPLYSQUARE_SOURCES = \
 	applysquare/applysquare.language.coffee.js \
 	applysquare/applysquare.cover.coffee.js \
 	applysquare/applysquare.post.coffee.js \
+	applysquare/applysquare.page.coffee.js \
 
 .PHONY: all
 all:  ../static/js/$(APPLYSQUARE_TARGET)
