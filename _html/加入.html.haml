@@ -41,10 +41,9 @@ permalink: /加入/
             %td.col-md-2<> {{ job.type }}
           %tr.jobs-details.js-jobs-details.hide{"data-job-title" => "{{ job.title }}"}<>
             %td{colspan: 4}<>
-              %p<>
+              %div<>
                 %strong<> 职位描述
-                %br/
-                %span<> {{ job.description }}
+                %div<> {{ job.description | markdownify }}
               %strong<> 任职要求
               = "{% for requirement in job.requirements %}"
               %div<> {{ requirement }}
