@@ -1,0 +1,25 @@
+== ---
+layout: base
+title: 校园大使
+language: zh
+permalink: /校园大使/
+== ---
+= "\n\n"
+
+%div<>
+  = "{% include welcome.html %}"
+
+.page<>
+  .container<>
+    .title<>
+      %h2<> 申请方校园大使
+
+  .page-content<>
+    .container<>
+      %div<>
+        = "{% for ambassador in site.data.ambassador %}"
+        = "{% if ambassador.language == page.language %}"
+        {{ ambassador.content | markdownify }}
+        = "{% endif %}"
+        = "{% endfor %}"
+

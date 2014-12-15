@@ -1,0 +1,8 @@
+---
+layout: base
+title: 环球旅行计划
+language: zh
+permalink: /环球旅行/
+---
+
+<div>{% include welcome.html %}</div><div class="page"><div class="container"><div class="title"><h2>申请方环球旅行计划</h2></div></div><div class="page-content"><div class="container"><div>{% for travel in site.data.travel %}{% if travel.language == page.language %}{{ travel.content | markdownify }}{% endif %}{% endfor %}</div></div></div></div>
