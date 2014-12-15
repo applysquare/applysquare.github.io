@@ -1,8 +1,0 @@
----
-layout: base
-title: 校园大使
-language: zh
-permalink: /校园大使/
----
-
-<div>{% include welcome.html %}</div><div class="page"><div class="container"><div class="title"><h2>申请方校园大使</h2></div></div><div class="page-content"><div class="container"><div>{% for ambassador in site.data.ambassador %}{% if ambassador.language == page.language %}{{ ambassador.content | markdownify }}{% endif %}{% endfor %}</div></div></div></div>

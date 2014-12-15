@@ -1,0 +1,44 @@
+---
+layout: page
+title: 谷歌浏览器插件安装教程
+subtitle: |
+  Google Chrome 谷歌浏览器是一款简洁、快速的浏览器，也正因为其简洁快速，所以它只实现了浏览器的核心功能，很多外围的功能它交给了插件系统和第三方应用去完成。
+  
+  基于 Google Chrome 插件开发，申请方网申工具已经覆盖北美100家以上的网申系统。网申工具智能提示填写处的含义与格式，并自动记录申请者的填写信息。针对不同学校网申系统的相似内容，网申工具将导出后台记录进行智能提示，并辅助填充，为申请者大量消减网申中低效耗时的重复性填写，显著提升了网申过程的准确性。
+
+  但是，Google 的服务器在美国，有时候打开速度很慢，加上一些应用并没有注册在 Google Chrome Web Store 上面，所以这个教程就来教教大家如何快速安装申请方谷歌浏览器插件。
+language: zh
+permalink: /谷歌浏览器插件/
+---
+
+安装步骤
+----
+
+### 1. 下载并安装 Google Chrome 浏览器
+可通过[百度软件中心](http://rj.baidu.com/soft/detail/14744.html)，[太平洋软件中心](http://dl.pconline.com.cn/download/51614.html)或[天极软件中心](http://mydown.yesky.com/desktop/gamedesk/manhuakatong/318/416318.shtml)等下载。
+
+### 2. 下载申请方 crx 格式的 Google Chrome 插件文件
+[请点击此处下载](http://storage.applysquare.com/a2/chrome/plugin.zip)并解压缩。
+
+### 3. 进入插件管理界面
+打开 Chrome 浏览器，点击 “扩展程序” 进入插件管理界面。如下图所示。
+
+![进入插件管理界面](//applysquare-media.qiniudn.com/chrome/1.png)
+
+### 4. 将 Chrome 插件拖至管理界面
+如下图所示的 Chrome 插件管理界面。将下载好的 crx 插件文件拖到 Chrome 插件管理界面中去，松开鼠标即可。
+
+![拖至管理界面](//applysquare-media.qiniudn.com/chrome/2.png)
+
+### 5. 确认添加
+如下图所示，Chrome 会弹出安装插件的提示，点击添加。
+
+![点击添加](//applysquare-media.qiniudn.com/chrome/3.png)
+
+### 6. 插件设置
+安装完成之后的界面如下图所示，基本上到这一步就能在 Chrome 插件管理界面看到安装之后的插件了。其中右上角的菜单条会出现插件的设置按钮。
+
+![安装完成](//applysquare-media.qiniudn.com/chrome/4.png)
+
+### 7. 完成安装
+至此，已经完成了插件的安装。如果需要配置，可以在右上角的设置栏或者插件管理界面进行更多的操作。

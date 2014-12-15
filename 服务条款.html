@@ -1,8 +1,0 @@
----
-layout: base
-title: 服务条款
-language: zh
-permalink: /服务条款/
----
-
-<div>{% include welcome.html %}</div><div class="page"><div class="container"><div class="title"><h2>申请方服务条款</h2></div></div><div class="page-content"><div class="container">{% for terms in site.data.terms %}{% if terms.language == page.language %}<div>{{ terms.content | markdownify }}</div>{% endif %}{% endfor %}</div></div></div>

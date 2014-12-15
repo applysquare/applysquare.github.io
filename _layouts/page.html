@@ -1,0 +1,10 @@
+---
+layout: base
+---
+
+<div>{% include welcome.html %}</div><article class="page js-page"><section class="page-top">
+<div class="container">
+<div class="title"><h2>{{ page.title }}</h2>{% if page.subtitle %}{{ page.subtitle | markdownify }}
+{% endif %}</div>
+</div>
+</section><section class="page-content js-page-content"><div class="container">{{ content }}</div></section></article>

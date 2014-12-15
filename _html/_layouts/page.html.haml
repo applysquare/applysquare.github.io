@@ -1,0 +1,18 @@
+== ---
+layout: base
+== ---
+= "\n\n"
+
+%div<>
+  = "{% include welcome.html %}"
+
+%article.page.js-page<>
+  %section.page-top
+    .container
+      .title
+        %h2<> {{ page.title }}
+        = "{% if page.subtitle %}"
+        {{ page.subtitle | markdownify }}
+        = "{% endif %}"
+  %section.page-content.js-page-content<>
+    .container<> {{ content }}
