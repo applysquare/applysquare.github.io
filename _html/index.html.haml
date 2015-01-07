@@ -6,8 +6,8 @@ permalink: /
 
 %div{lang: "en"}<>
   = "{% include welcome.html content='<h1>Hello, I\\'m <a href=\"https://www.applysquare.com/\">ApplySquare</a>, a great tool for your graduation school application.</h1>' %}"
-  = "{% include latest.html posts=site.categories.en language='en' %}"
+  = "{% include latest.html posts=site.categories language='en' %}"
 
 .hide{lang: "zh"}<>
   = "{% include welcome.html content='<h1>你好, 我是<a href=\"https://www.applysquare.com/\">申请方</a>, 出国留学的利器.</h1><h2>吧啦吧啦吧啦.</h2>' %}"
-  = "{% include latest.html posts=site.categories.zh language='zh' %}"
+  = "{% include latest.html posts=site.categories language='zh' %}"
