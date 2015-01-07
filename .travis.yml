@@ -5,5 +5,5 @@ install:
 script:
   - make clean
   - make
-  - jekyll build
+  - bundle exec jekyll build
 
