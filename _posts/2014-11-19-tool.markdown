@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 申请方－留学申请DIY神器
-subtitle: 申请方基于云计算和大数据的相关技术，旨在为申请者提供高效、便捷的在线全方位入学申请解决方案。
+title: 学业规划的工具与社区平台
+subtitle: 申请方
 language: zh
 categories: [zh]
 cover: http://applysquare-media.qiniudn.com/cover/fog.jpg
 ---
 
-申请方基于云计算和大数据的相关技术，旨在为申请者提供高效、便捷的在线全方位入学申请解决方案。
+ApplySquare（申请方）是一个学业规划的工具与社区平台，专注教育互联网行业，基于云计算和大数据的相关技术，为申请者提供免费、高效、便捷的全方位留学申请解决方案，同时也为申请者提供基于Web端与Mobile端（Android与iOS）的申请工具与数据分析支持，以及学业、职业资讯订阅与社交支持。ApplySquare用户群体不仅来自中国，也为美国、欧洲、东南亚用户提供数据与资讯支持。
 
-申请方目前覆盖34个国家的987所大学，涵盖56个研究领域，支持申请15652个学位项目，目前是世界上最大的offer（录取信息）平台和申请Case（案例）平台。申请方在线为申请者同时提供基于Web端与Mobile端（Android与IOS）的申请工具与数据分析支持，并提供学业、职业媒体资讯订阅与社交支持。
+ApplySquare（申请方）是目前世界上最大的申请平台、录取信息平台和申请案例平台，覆盖48个国家的1159所大学及科研机构，涵盖56个研究领域，支持申请18796个学位项目，还有超过30万的录取信息数量。
 
 【项目信息】为申请者提供全球各个知名高校的申请项目信息，并通过定期的自动抓取、手动更新或用户反馈等方式来维护信息的准确性和完整性，做到云同步与追踪。
 <img src="http://applysquare-media.qiniudn.com/2014/11/tool/program.jpg" width="240px" height="auto" />
@@ -28,6 +28,9 @@ cover: http://applysquare-media.qiniudn.com/cover/fog.jpg
 【录取数据库】自动同步各类录取信息，针对用户申请项目智能推送相关结果，为用户提供进一步的数据服务。
 <img src="http://applysquare-media.qiniudn.com/2014/11/tool/offer.jpg" width="240px" height="auto" />
 
-欢迎通过以下方式联系我们：  
-官方网站：[www.applysquare.com](https://www.applysquare.com/)  
+【教授招生信息】提供海外教授博士招生信息，为潜在的申请者和招生教授相互匹配合适的人数。
+<img src="http://applysquare-media.qiniudn.com/2014/11/tool/professor.png" width="240px" height="auto" />
+
+欢迎通过以下方式联系我们：<br />
+官方网站：[www.applysquare.com](https://www.applysquare.com/)<br />
 微信号：applysquare 或直接搜索“申请方”添加
