@@ -40,3 +40,9 @@ exclude:
 
 prose:
   media: "image"
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
