@@ -39,4 +39,4 @@ exclude:
   - LICENSE
 
 prose:
-  rooturl: "_posts"
+  media: "media"
