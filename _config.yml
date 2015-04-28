@@ -46,4 +46,9 @@ prose:
         field:
           element: "hidden"
           value: "post"
-                 
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Add Categories"
+          placeholder: "Add Categories"
+          alterable: true                 
