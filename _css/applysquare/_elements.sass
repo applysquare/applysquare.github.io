@@ -64,7 +64,7 @@ p.note
 
 .loading
   position: fixed
-  top: 0
+  top: 50px
   left: 0
   right: 0
   width: 100%
@@ -85,9 +85,14 @@ p.note
   padding: 50px 0
   h2
     color: #c4161c
-    font-size: 40px
+    font-size: 30px
     margin: 0
     margin-bottom: 5px
     padding: 0
     font-weight: 300
 
+
+@media(max-width: 767px)
+  .loading
+    position: relative
+    top: auto

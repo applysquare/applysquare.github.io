@@ -3,7 +3,7 @@ layout: post
 title: 全球最全最精留学案例库
 subtitle: 5分钟让你掌握如何留学
 language: zh
-categories: [zh]
+categories: [zh,en,a2]
 cover: http://applysquare-media.qiniudn.com/cover/fog.jpg
 ---
 进入大学还只一两年的你，是否还在犹豫该不该留学？

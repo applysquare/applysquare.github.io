@@ -3,13 +3,10 @@ layout: html
 == ---
 = "\n\n"
 
+= "{% include header.html %}"
 .progress.loading.js-loading<>
   .progress-bar<>
-
 #base.base<>
-  = "{% if page.is_post %}"
-  %a.logo{href: "{{ site.www_url }}/"}<>
-  = "{% endif %}"
   .content<> {{ content }}
 = "{% include footer.html %}"
 

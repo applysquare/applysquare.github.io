@@ -2,4 +2,4 @@
 layout: html
 ---
 
-<div class="progress loading js-loading"><div class="progress-bar"></div></div><div class="base" id="base">{% if page.is_post %}<a class="logo" href="{{ site.www_url }}/"></a>{% endif %}<div class="content">{{ content }}</div></div>{% include footer.html %}<div></div>
+{% include header.html %}<div class="progress loading js-loading"><div class="progress-bar"></div></div><div class="base" id="base"><div class="content">{{ content }}</div></div>{% include footer.html %}<div></div>
