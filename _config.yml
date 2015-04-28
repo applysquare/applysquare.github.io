@@ -39,4 +39,4 @@ exclude:
   - LICENSE
 
 prose:
-  media: "media"
+  media: "image"
