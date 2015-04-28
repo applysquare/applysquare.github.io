@@ -37,3 +37,6 @@ exclude:
   - Rakefile
   - README.md
   - LICENSE
+
+prose:
+  rooturl: "_posts"
