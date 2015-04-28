@@ -38,3 +38,5 @@ exclude:
   - README.md
   - LICENSE
 
+prose:
+  media: "image"
