@@ -51,4 +51,8 @@ prose:
           element: "multiselect"
           label: "Add Categories"
           placeholder: "Add Categories"
-          alterable: true                 
+          options:
+            - name: "ApplySquare"
+              value: "applysquare"
+            - name: "News"
+              value: "news"
