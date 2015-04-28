@@ -3,9 +3,10 @@ layout: page
 title: 环球旅行计划
 language: zh
 permalink: /环球旅行/
+published: false
 ---
 
-申请方的小伙伴们：
+申请方的小伙伴们，
 
 2014 秋季申请已经告一段落，一段新的篇章即将开始。
 
