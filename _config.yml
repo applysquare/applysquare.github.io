@@ -49,5 +49,5 @@ prose:
       - name: "cover"
         field:
           element: "text"
-          value: \""http://applysquare-media.qiniudn.com/cover/fog.jpg\""
+          value: "\"http://applysquare-media.qiniudn.com/cover/fog.jpg\""
                        
