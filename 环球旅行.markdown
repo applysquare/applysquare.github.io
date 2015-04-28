@@ -3,7 +3,7 @@ layout: page
 title: 环球旅行计划
 language: zh
 permalink: /环球旅行/
-published: false
+published: true
 ---
 
 申请方的小伙伴们，
