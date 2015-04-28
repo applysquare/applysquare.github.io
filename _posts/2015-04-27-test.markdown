@@ -1,5 +1,11 @@
 ---
 published: true
+layout: post
+subtitle: 申请方
+language: zh
+categories: 
+  - zh
+cover: "http://applysquare-media.qiniudn.com/cover/fog.jpg"
 ---
 
 ## A New Post
