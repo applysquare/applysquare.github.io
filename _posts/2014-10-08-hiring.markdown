@@ -3,7 +3,7 @@ layout: post
 title: 从一开始，从 2 而终；这能招到牛人嘛
 subtitle: 申请方团队想招人，也麻烦帮助转发扩散一下。
 language: zh
-categories: [zh,en,a2]
+categories: [applysquare]
 cover: droplets.jpg
 ---
 

@@ -11,8 +11,9 @@
           %span{lang: "en"}<> ApplySquare Blog
           %span.hide{lang: "zh"}<> 申请方博客
       #navbar.collapse.navbar-collapse
-        / %ul.nav.navbar-nav
-        /   %li
-        /     %a{href: "#"}
-        /       %span{lang: "en"}<> News
-        /       %span.hide{lang: "zh"}<> 新闻
+        %ul.nav.navbar-nav
+          %li
+            %a{href: "/archive/", lang: "en"}
+              %span<> All posts
+            %a.hide{href: "/存档/", lang: "zh"}
+              %span<> 所有文章

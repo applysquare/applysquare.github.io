@@ -3,7 +3,7 @@ layout: post
 title: 十年清华人，如今的我们能为母校做点儿什么
 subtitle: ""
 language: zh
-categories: [zh,en,a2]
+categories: [applysquare]
 cover: http://applysquare-media.qiniudn.com/cover/fog.jpg
 ---
 过去六年，因为读书和创业的关系，我需要经常往返于中美。万米高空狭小的机舱里，也经常会碰到一些上了年纪的阿姨，说来也巧，大多数都和清华有千丝万缕的联系。无外乎儿子在美读书去探亲，女儿在美工作去探亲，儿女组建了家庭在美生了小孩子需要照顾去探亲。
