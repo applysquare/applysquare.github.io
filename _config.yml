@@ -40,3 +40,19 @@ exclude:
 
 prose:
   media: "image"
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Add Categories"
+          placeholder: "Add Categories"
+          options:
+            - name: "ApplySquare"
+              value: "applysquare"
+            - name: "News"
+              value: "news"
