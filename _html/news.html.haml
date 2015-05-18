@@ -1,0 +1,18 @@
+== ---
+layout: base
+title: Archive
+language: en
+permalink: /news/
+tab: news
+== ---
+= "\n\n"
+
+/ %div{lang: "en"}<>
+/   = "{% include welcome.html content='<h1>News</h1>'%}"
+/ %div{lang: "zh"}<>
+/   = "{% include welcome.html content='<h1>媒体报道</h1>'%}"
+
+.archive<>
+  .container<>
+    .archive-posts<>
+      = "{% include archive.html posts=site.categories.news %}"

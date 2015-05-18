@@ -40,7 +40,7 @@ $ ->
 
   $.pjax.defaults.success = -> applysquare.run()
   $('a').pjax
-    containers: ['#base']
+    containers: ['#base', '#navbar']
 
   $('.js-autotimestamp').autotimestamp()
 

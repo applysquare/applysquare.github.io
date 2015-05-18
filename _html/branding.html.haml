@@ -1,0 +1,18 @@
+== ---
+layout: base
+title: Archive
+language: en
+permalink: /branding/
+tab: branding
+== ---
+= "\n\n"
+
+/ %div{lang: "en"}<>
+/   = "{% include welcome.html content='<h1>Branding</h1>'%}"
+/ %div{lang: "zh"}<>
+/   = "{% include welcome.html content='<h1>品牌活动</h1>'%}"
+
+.archive<>
+  .container<>
+    .archive-posts<>
+      = "{% include archive.html posts=site.categories.branding %}"

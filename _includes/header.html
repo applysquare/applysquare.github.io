@@ -1,4 +1,3 @@
-<div id="header">
 <nav class="navbar navbar-default navbar-fixed-top">
 <div class="container">
 <div class="navbar-header">
@@ -12,10 +11,27 @@
 </div>
 <div class="collapse navbar-collapse" id="navbar">
 <ul class="nav navbar-nav">
-<li>
-<a href="/archive/" lang="en"><span>All posts</span></a><a class="hide" href="/存档/" lang="zh"><span>所有文章</span></a></li>
+<li class="{% if page.tab == 'home' %}active{% endif %}">
+<a href="/"><span lang="en">Home</span><span class="hide" lang="zh">首页</span></a>
+</li>
+<li class="{% if page.tab == 'news' %}active{% endif %}">
+<a href="/news/"><span lang="en">News</span><span class="hide" lang="zh">媒体报道</span></a>
+</li>
+<li class="{% if page.tab == 'branding' %}active{% endif %}">
+<a href="/branding/"><span lang="en">Branding</span><span class="hide" lang="zh">品牌活动</span></a>
+</li>
+<li class="{% if page.tab == 'family' %}active{% endif %}">
+<a href="/family/"><span lang="en">A2 Family</span><span class="hide" lang="zh">A2 Family</span></a>
+</li>
+<li class="{% if page.tab == 'about' %}active{% endif %}">
+<a href="/about/"><span lang="en">About Us</span><span class="hide" lang="zh">关于我们</span></a>
+</li>
+<!-- %li{class: "{% if page.tab == 'archive' %}active{% endif %}"} -->
+<!-- %a{href: "/archive/", lang: "en"} -->
+<!-- %span<> All posts -->
+<!-- %a.hide{href: "/存档/", lang: "zh"} -->
+<!-- %span<> 所有文章 -->
 </ul>
 </div>
 </div>
 </nav>
-</div>

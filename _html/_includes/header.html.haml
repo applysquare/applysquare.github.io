@@ -1,19 +1,38 @@
-#header
-  %nav.navbar.navbar-default.navbar-fixed-top
-    .container
-      .navbar-header
-        #button.navbar-toggle.collapsed{type: "button", "data-toggle": "collapse", "data-target": "#navbar"}
-          %span.icon-bar
-          %span.icon-bar
-          %span.icon-bar
-        %a.navbar-brand{href: "/"}
-          %span.logo
-          %span{lang: "en"}<> ApplySquare Blog
-          %span.hide{lang: "zh"}<> 申请方博客
-      #navbar.collapse.navbar-collapse
-        %ul.nav.navbar-nav
-          %li
-            %a{href: "/archive/", lang: "en"}
-              %span<> All posts
-            %a.hide{href: "/存档/", lang: "zh"}
-              %span<> 所有文章
+%nav.navbar.navbar-default.navbar-fixed-top
+  .container
+    .navbar-header
+      #button.navbar-toggle.collapsed{type: "button", "data-toggle": "collapse", "data-target": "#navbar"}
+        %span.icon-bar
+        %span.icon-bar
+        %span.icon-bar
+      %a.navbar-brand{href: "/"}
+        %span.logo
+        %span{lang: "en"}<> ApplySquare Blog
+        %span.hide{lang: "zh"}<> 申请方博客
+    #navbar.collapse.navbar-collapse
+      %ul.nav.navbar-nav
+        %li{class: "{% if page.tab == 'home' %}active{% endif %}"}
+          %a{href: "/"}
+            %span{lang: "en"}<> Home
+            %span.hide{lang: "zh"}<> 首页
+        %li{class: "{% if page.tab == 'news' %}active{% endif %}"}
+          %a{href: "/news/"}
+            %span{lang: "en"}<> News
+            %span.hide{lang: "zh"}<> 媒体报道
+        %li{class: "{% if page.tab == 'branding' %}active{% endif %}"}
+          %a{href: "/branding/"}
+            %span{lang: "en"}<> Branding
+            %span.hide{lang: "zh"}<> 品牌活动
+        %li{class: "{% if page.tab == 'family' %}active{% endif %}"}
+          %a{href: "/family/"}
+            %span{lang: "en"}<> A2 Family
+            %span.hide{lang: "zh"}<> A2 Family
+        %li{class: "{% if page.tab == 'about' %}active{% endif %}"}
+          %a{href: "/about/"}
+            %span{lang: "en"}<> About Us
+            %span.hide{lang: "zh"}<> 关于我们
+        / %li{class: "{% if page.tab == 'archive' %}active{% endif %}"}
+        /   %a{href: "/archive/", lang: "en"}
+        /     %span<> All posts
+        /   %a.hide{href: "/存档/", lang: "zh"}
+        /     %span<> 所有文章
