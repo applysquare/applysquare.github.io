@@ -5,7 +5,7 @@
   type: 全职
   description: 移动站点的开发维护移动应用内活动的开发维护根据需求完成HTML5移动应用编程方面的工作
   requirements:
-  - 对不同浏览器以及各个平台(ios、andriod)的 webview 的兼容性有深入的了解
+  - 对不同浏览器以及各个平台(ios、android)的 webview 的兼容性有深入的了解
   - 对原生 JS 以及 HTML5、CSS3 有深入的了解
   - 有过大型网站的架构经验
   - 熟悉掌握基本的数据结构和算法
@@ -39,7 +39,7 @@
   - 具有良好的产品意识和沟通协作能力
   - 精通数据结构和算法者优先
 - language: zh
-  title: Andriod开发工程师
+  title: Android开发工程师
   category: 研发
   location: 北京/西雅图/纽约
   type: 全职
