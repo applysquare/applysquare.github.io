@@ -1,0 +1,14 @@
+---
+layout: post
+title: Vol.2 不想当明星的宅男可能并不存在
+subtitle: 今天方方去了《鲁豫有约》。
+language: zh
+categories: [family]
+cover: fog.jpg
+---
+<!-- 今天是第一期，希望你们喜欢。 -->
+
+![page01](/image/A2Family/VOL2/1.jpg)
+![page02](/image/A2Family/VOL2/2.jpg)
+
+
