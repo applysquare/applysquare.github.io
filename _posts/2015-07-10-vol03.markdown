@@ -1,0 +1,13 @@
+---
+layout: post
+title: A2 Family Vol.3 有什么是永恒的
+subtitle: 这一次，方方去了沙漠。
+language: zh
+categories: [family]
+cover: fog.jpg
+---
+
+
+![page01](/image/A2Family/VOL3/1.jpg)
+![page02](/image/A2Family/VOL3/2.jpg)
+![page03](/image/A2Family/VOL3/3.jpg)

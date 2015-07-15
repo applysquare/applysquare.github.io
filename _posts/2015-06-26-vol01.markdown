@@ -1,0 +1,13 @@
+---
+layout: post
+title: Vol.1 方脸的好处是可以做成纸盒人
+subtitle: A2 Family的连载正式开始啦。
+language: zh
+categories: [family]
+cover: fog.jpg
+---
+今天是第一期，希望你们喜欢。
+
+![page01](/image/A2Family/VOL1/page1.png)
+![page02](/image/A2Family/VOL1/page2.png)
+![page03](/image/A2Family/VOL1/page3.png)
