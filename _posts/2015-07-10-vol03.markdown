@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A2 Family Vol.3 有什么是永恒的
+title: Vol.3 有什么是永恒的
 subtitle: 这一次，方方去了沙漠。
 language: zh
 categories: [family]
