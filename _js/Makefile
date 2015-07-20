@@ -19,7 +19,7 @@ all:  ../static/js/$(APPLYSQUARE_TARGET)
 
 ../static/js/$(APPLYSQUARE_TARGET): $(APPLYSQUARE_TARGET)
 	mkdir -p ../static/js
-	cat $(APPLYSQUARE_TARGET) | sed 's/\/\*!/\/**/g' | yui-compressor --type js > ../static/js/$(APPLYSQUARE_TARGET)
+	cat $(APPLYSQUARE_TARGET) | sed 's/\/\*!/\/**/g' | yuicompressor --type js > ../static/js/$(APPLYSQUARE_TARGET)
 
 $(APPLYSQUARE_TARGET): $(APPLYSQUARE_SOURCES)
 	cat $(APPLYSQUARE_SOURCES) > $(APPLYSQUARE_TARGET)
