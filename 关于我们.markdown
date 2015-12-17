@@ -1,12 +1,10 @@
 ---
 layout: page
-title: 关于我们
+title: 申请方（Applysquare）
 language: zh
-permalink: /关于我们/
+permalink: /申请方/
 ---
----
-申请方（Applysquare）
----
+
 ----
 公司介绍：
 ----
