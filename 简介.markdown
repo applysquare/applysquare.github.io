@@ -2,7 +2,7 @@
 layout: page
 title: 申请方（Applysquare）
 language: zh
-permalink: /申请方/
+permalink: /简介/
 ---
 
 ----
