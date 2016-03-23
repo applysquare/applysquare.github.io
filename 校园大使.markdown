@@ -40,4 +40,4 @@ published: true
  
 ## 报名方式：
 1. 报名邮箱：campus@applysquare.com，邮件标题格式：校园大使+姓名+学校。
-2. 招聘专用微信：applyfangfang，请添加备注：校园大使+姓名+学校。
+2. 招聘专用微信：a2-dszp，请添加备注：校园大使+姓名+学校。
