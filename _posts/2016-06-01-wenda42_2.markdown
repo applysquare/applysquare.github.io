@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - branding
 title: 回报高中母校恩情，it's the time! 【品牌活动问达42第二期】
@@ -52,5 +52,3 @@ language: zh
 以上就是这次问达42活动的过程了，相信来参加培训的同学们都了解到了很多知识，也打开了新世界的大门。那么就让我们一起用我们的双手，造福学弟学妹吧！
 
 当然了，强迫症的我们又要说了。下一期的问达42同样会在42天之后举办，到时候请听我们的通知哦！
-
-
