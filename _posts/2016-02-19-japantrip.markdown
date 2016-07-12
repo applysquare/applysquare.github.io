@@ -67,4 +67,3 @@ categories:
 最后，在大家的强烈要求下……被迫放一张合影。
 
 ![IMG_4844.JPG]({{site.baseurl}}/image/IMG_4844.JPG)
-
