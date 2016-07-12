@@ -1,6 +1,11 @@
 ---
 layout: post
 published: false
+categories:
+  - branding
+title: 4月赏樱樱吹雪
+subtitle: 其实我只是来帮圆圆女神买化妆品
+language: zh
 ---
 春天来了，带着美丽的心情，我也想来一次说走就走的旅行。听说四月樱吹雪，于是我又买了一张去往日本的机票。在机场留个影~
 
