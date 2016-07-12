@@ -1,6 +1,11 @@
 ---
 layout: post
 published: false
+title: “85后”创业者的奇志：用数据开启科技留学新时代
+subtitle: '20160520《留学》杂志总第58期　李文星,胡是非,申请方,胡婷 我有话说'
+language: zh
+categories:
+  - news
 ---
 头戴名校光环的留学生们正在一个个回归故里，他们发现实现人生价值的沃土，就在中国。
 
