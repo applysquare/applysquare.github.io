@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 2015新浪教育盛典候选机构：申请方留学
 language: zh
 subtitle: 2015新浪教育盛典候选机构：申请方留学
