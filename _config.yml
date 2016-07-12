@@ -56,3 +56,5 @@ prose:
               value: "applysquare"
             - name: "News"
               value: "news"
+            - name: "Branding"
+              value: "branding"
