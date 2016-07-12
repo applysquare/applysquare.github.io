@@ -1,6 +1,11 @@
 ---
 layout: post
 published: false
+categories:
+  - news
+title: 保送清华海归创业 这名济南学神就是个传奇
+subtitle: 生活日报对ApplySquare（申请方）CEO王刚独家专访
+language: zh
 ---
 
 ![]({{site.baseurl}}/image/%E7%85%A7%E7%89%871.2.jpg)![照片.jpg]({{site.baseurl}}/image/照片.jpg)
