@@ -1,6 +1,10 @@
 ---
 layout: post
 published: false
+categories:
+  - news
+title: First overseas media salon at Tsinghua
+language: zh
 ---
 Event | First overseas media salon at Tsinghua
 
