@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 subtitle: 3月9日，方方的小日记。
 language: zh
 cover: fog.jpg
@@ -35,4 +35,3 @@ categories:
 我感觉我在女神的心目中，又高大了许多。
 
 ![5.jpg]({{site.baseurl}}/image/5.jpg)
-
