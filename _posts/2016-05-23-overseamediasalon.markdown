@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - news
 title: First overseas media salon at Tsinghua
@@ -102,5 +102,3 @@ Editor: Jade Kong
 Designer: Ma Xin
 Photos by Wang Zhirui
                     Zhao Zhenhao
-
-
