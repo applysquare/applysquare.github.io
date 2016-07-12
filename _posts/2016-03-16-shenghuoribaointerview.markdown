@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - news
 title: 保送清华海归创业 这名济南学神就是个传奇
