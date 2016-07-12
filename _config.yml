@@ -25,7 +25,7 @@ analytics: UA-41044126-5
 
 lsi: false
 safe: true
-highlighter: pygments
+highlighter: rouge
 permalink: /:year/:month/:title/
 relative_permalinks: false
 markdown: kramdown
