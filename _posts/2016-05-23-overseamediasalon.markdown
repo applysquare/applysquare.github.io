@@ -30,7 +30,7 @@ Student innovators who have worked closely with Tsinghua x-lab, an innovation an
 
 I spend half of my time here doing research in the lab and the other half studying different courses outside of my major. Everything I have worked on and experienced here has helped me to understand how businesses operate in the real world.”
 
-![o7.jpg]({{site.baseurl}}/image/o7.jpg)
+![o8.jpg]({{site.baseurl}}/image/o8.jpg)
 
 
 “Tsinghua provides an impressive platform that has helped me to grow in many areas. I have gained valuable leadership skills along the way, which I have discovered is an integral part of owning a business. I am looking forward to continuing my journey so I can develop further. ”
@@ -47,7 +47,8 @@ Ahmed Alsayadi, from the Department of Computer Science and Technology, is CTO o
 
 Tsinghua's culture of striving for excellence motivates me to achieve my best.”
 
-![o8.jpg]({{site.baseurl}}/image/o8.jpg)
+![o10.jpg]({{site.baseurl}}/image/o10.jpg)
+
 
 “Here, I was able to develop business ideas, learn and test strategies while working closely with faculty, industry experts and peers.”
 
@@ -62,7 +63,7 @@ The platform aims to build an online community of learners, and increase the acc
 
 I think that this is invaluable to students. Most questions and problems can be solved on campus. The teachers are very experienced and helpful and are ready to assist in any way they can.”
 
-![o9.jpg]({{site.baseurl}}/image/o9.jpg)
+![o12.jpg]({{site.baseurl}}/image/o12.jpg)
 
 “The learning experience is imperative for my development as an entrepreneur. In my research area, only Tsinghua can provide me with the opportunity to make use of some of the best equipment and recourses.”
 
