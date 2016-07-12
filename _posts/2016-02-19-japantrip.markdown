@@ -6,7 +6,7 @@ language: zh
 cover: fog.jpg
 title: 哦哈哟，日本！
 categories:
-  - applysquare
+  - branding
 ---
 旅行者能够看到他所拥有的是何等的少，而他所未曾拥有的和永远不会拥有的是何等的多。”
 															——卡尔维诺
