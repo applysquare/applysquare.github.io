@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 subtitle: 申请方环游世界旅行计划，正在进行中。
 language: zh
 cover: fog.jpg
