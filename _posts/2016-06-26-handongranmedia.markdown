@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - news
 title: 高考结束，专业如何选？
@@ -144,4 +144,3 @@ Lily:
 你的看法是什么？给我们留言吧！
 
 本文部分内容转载自作者知乎，已获作者授权。
-
