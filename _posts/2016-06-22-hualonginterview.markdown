@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - news
 title: “高考志愿填报神器”火了！大数据帮你轻松做选择
