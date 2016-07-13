@@ -29,6 +29,7 @@ language: zh
 
 ![]({{site.baseurl}}/image/3k.jpg)
 
+
 唉，看来每次遇到圆圆女神，我就
 
 ![k6.jpg]({{site.baseurl}}/image/k6.jpg)
