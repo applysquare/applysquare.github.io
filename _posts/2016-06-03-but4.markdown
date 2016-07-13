@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - branding
 title: 学生物的真的都是小白鼠杀手吗？【罢特大白话】
@@ -10,4 +10,3 @@ subtitle: 罢特大白话专业系列漫画第四期
 生物专业将来的就业前景又如何呢？让罢特哥带你走进不一样的生物世界。
 
 ![]({{site.baseurl}}/image/4%E7%94%9F%E7%89%A9.png)![4生物.png]({{site.baseurl}}/image/4生物.png)
-
