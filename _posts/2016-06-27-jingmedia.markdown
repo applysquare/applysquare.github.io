@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - news
 title: 【后浪】王刚：申请方要拿学业发展大数据做什么？
@@ -90,6 +90,3 @@ language: zh
 
 王刚透露，申请方刚刚获得了ATA领投的3300万人民币A轮融资。谈及未来，王刚表示，希望C端可以基于底层数据和人机交互的技术在改造传统的人工咨询方面有所突破，希望在面向高等教育等机构的B端业务上（信息系统和数据服务）快速发展。
 ![filehelper_1468416960468_52.png]({{site.baseurl}}/image/filehelper_1468416960468_52.png)
-
-
-
