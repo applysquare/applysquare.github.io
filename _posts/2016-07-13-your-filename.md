@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - news
 title: '权威!热门高校预估分数线出炉!文科前2000名,理科前8400名可以冲山大'
