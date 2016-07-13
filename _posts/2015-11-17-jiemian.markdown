@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+language: zh
 categories:
   - news
 title: 当你苦心积虑办移民时 海归精英已开始追逐“中国梦”
