@@ -1,0 +1,16 @@
+---
+layout: post
+published: false
+categories:
+  - branding
+title: 为什么学计算机的人总是被黑【罢特大白话】
+subtitle: 罢特大白话专业系列漫画第二期
+language: zh
+---
+学了计算机专业会引发的连锁反应包括：
+成为夜行动物，常伴有颈椎以及腰椎间盘突出，稳重专一，内心戏多。
+
+程序员总是烦恼：为什么女朋友没有Bug那么好找......
+
+![2计算机.png]({{site.baseurl}}/image/2计算机.png)
+![]({{site.baseurl}}/image/2%E8%AE%A1%E7%AE%97%E6%9C%BA.png)
