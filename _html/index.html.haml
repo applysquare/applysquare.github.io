@@ -7,8 +7,11 @@ tab: home
 
 %div{lang: "en"}<>
   = "{% include welcome.html content='<h1>ApplySquare, planning your future</h1>' %}"
-  = "{% include latest.html posts=site.posts language='en' %}"
 
 .hide{lang: "zh"}<>
   = "{% include welcome.html content='<h1>申请方，规划你的未来</h1>' %}"
-  = "{% include latest.html posts=site.posts language='zh' %}"
+
+%div{style: "margin: 50px auto; max-width: 600px"}<>
+  %video{width: "100%", height: "auto", controls: "controls", autoplay: "autoplay"}
+    %source{type: "video/mp4", src: "http://applysquare-media.qiniudn.com/video/intro.mp4"}
+    视频无法播放
