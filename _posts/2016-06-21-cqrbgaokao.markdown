@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - news
 title: 节约5万元！如此犀利的高考志愿填报神器，居然还是免费的
@@ -108,5 +108,3 @@ language: zh
 
 编辑：汤寒锋　竹琳
 审核：袁尚武
-
-
