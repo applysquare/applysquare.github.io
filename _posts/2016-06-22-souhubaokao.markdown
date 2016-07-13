@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - news
 title: 只需再等待一天，今年的高考分数就要公布了！
