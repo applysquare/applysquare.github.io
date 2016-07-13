@@ -1,11 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - branding
 title: 从交了会计女友说起
 subtitle: 罢特大白话专业系列漫画第一期
 language: zh
 ---
+交了会计女友会引发的连锁反应包括:
+善用团购，爱做规划，逻辑思考能力up，以及.....
+产出迷之科普系列漫画：罢特大白话之会计学
 ![1会计.png]({{site.baseurl}}/image/1会计.png)
-
