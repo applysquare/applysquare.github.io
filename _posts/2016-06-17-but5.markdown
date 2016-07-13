@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - branding
 title: 学新闻的将来都要做狗仔队吗？ 【罢特大白话】
@@ -12,5 +12,3 @@ language: zh
 新闻学到底是怎么回事？学了新闻学将来能干些什么？让罢特哥带你走进不一样的新闻世界。
 
 ![]({{site.baseurl}}/image/5%E6%96%B0%E9%97%BB.png)![5新闻.png]({{site.baseurl}}/image/5新闻.png)
-
-
