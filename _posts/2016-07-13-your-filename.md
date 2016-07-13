@@ -1,6 +1,11 @@
 ---
 layout: post
 published: false
+categories:
+  - news
+title: '权威!热门高校预估分数线出炉!文科前2000名,理科前8400名可以冲山大'
+subtitle: 齐鲁晚报对申请方报考工具的报道
+language: zh
 ---
 25日，2016年山东高考招生咨询会
 在济南舜耕国际会展中心举行，
