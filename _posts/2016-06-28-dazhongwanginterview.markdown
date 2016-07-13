@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - news
 title: 不光帮你填志愿 这款 APP能帮你解决大学所有困惑
