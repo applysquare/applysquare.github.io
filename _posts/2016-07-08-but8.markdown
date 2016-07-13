@@ -13,4 +13,5 @@ language: zh
 
 不管十分是粉是黑，罢特哥在这里等着你。
 
-![]({{site.baseurl}}/image/8%E6%9C%BA%E6%A2%B0%E5%B7%A5%E7%A8%8B.png)
+![]({{site.baseurl}}/image/8%E6%9C%BA%E6%A2%B0%E5%B7%A5%E7%A8%8B.png)![8机械工程.png]({{site.baseurl}}/image/8机械工程.png)
+
