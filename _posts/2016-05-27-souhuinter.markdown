@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 categories:
   - news
 title: 报哪个专业合适 大数据帮你搞定
