@@ -4,7 +4,7 @@ published: true
 categories:
   - branding
 title: 回报高中母校恩情，it's the time! 【品牌活动问达42第二期】
-subtitle: 问达42第二期活动
+subtitle: 品牌活动问达42第二期
 language: zh
 ---
 小伙伴们大家好，强迫症的问达42在经过42天之后终于回来了！
