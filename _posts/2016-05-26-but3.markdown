@@ -3,7 +3,7 @@ layout: post
 published: true
 categories:
   - branding
-title: 我们学国贸真的不是做代购的
+title: 我们学国贸的真的不是做代购的 【罢特大白话】
 subtitle: 罢特大白话专业系列漫画第三期
 language: zh
 ---
