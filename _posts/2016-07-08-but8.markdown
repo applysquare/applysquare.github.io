@@ -1,0 +1,16 @@
+---
+layout: post
+published: false
+categories:
+  - branding
+title: 为什么学机械工程的同学并不需要女朋友【罢特大白话】
+subtitle: 罢特大白话专业系列漫画第一季最后一期
+language: zh
+---
+今天是罢特大白话专业系列漫画的最后一期，第二季的专业和创意征集都正在进行中。
+
+假如你想看到那些专业被我们创作成漫画，假如你有特别好玩的梗，都欢迎告诉我们。
+
+不管十分是粉是黑，罢特哥在这里等着你。
+
+![]({{site.baseurl}}/image/8%E6%9C%BA%E6%A2%B0%E5%B7%A5%E7%A8%8B.png)
