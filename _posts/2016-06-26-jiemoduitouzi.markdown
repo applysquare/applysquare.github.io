@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - news
 title: 专注于大学生学业发展，申请方获ATA战略投资
