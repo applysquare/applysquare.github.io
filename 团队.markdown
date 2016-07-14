@@ -3,5 +3,15 @@ layout: page
 title: 团队
 language: zh
 permalink: /team/
+published: true
 ---
+王刚
+_创始人及首席执行官_
+ 
+![]({{site.baseurl}}/image/%E7%85%A7%E7%89%871.2.jpg)
+
+ApplySquare（申请方）创始人及 CEO，国家高层次人才、北京市特聘专家、中关村十大海归新星，西北工业大学翱翔名家受邀者。王刚在美国 University of North Carolina  at  Chapel  Hill 的 Kenan-Flagler 商学院获得运作管理(Operations  Management)博士,研究方向为供应链管理与机制设计。他同时也拥有统计和运筹学(Statistics  and  Operations  Research)的硕 士学位。王刚毕业于清华大学基科班,获得数学与物理(Mathematics and Physics)本科学位,并拥有经济学(Economics)学位。王刚曾任美国北卡州清华校友会会长以及美国北卡州华人商会副会长。他曾被新华网、大众网、山东电视台、新浪财经、搜狐教育、界面、博客天下等媒体多次报道。
+
+**团队**
+ApplySquare（申请方）的创始团队由来自美国名校，清华大学和北京大学的精英团队构成，目前整体团队中的成员25%拥有博士学历，70%有海外学习或工作背景。ApplySquare（申请方）管理团队的多位成员在美国完成了Ph.D.阶段的学习，专业背景方向涵盖物理、生物、应用数学、概率、统计、数值、随机分析、优化等理论及实验基础类学科，计算机、电子、航空航天等工程类学科，以及运营管理、人力资源等社科类学科。 ApplySquare（申请方）的核心工程师都在美国著名IT公司拥有多年研发经验。高等教育研究和教育咨询服务团队拥有6年以上学业和科研咨询经验，以及系统的高等教育科研教学服务训练，其中的 Ph.D.们都有在美国作为Instructor独立开设本科生课程的经验。产品、市场、媒体和运营团队拥有国内一线互联网公司的行业经验。
 
