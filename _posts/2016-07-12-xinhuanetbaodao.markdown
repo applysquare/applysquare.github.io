@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - news
 title: “申请方”APP：让考生知道大学里所有问题
