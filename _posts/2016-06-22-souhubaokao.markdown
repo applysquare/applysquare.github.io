@@ -3,8 +3,8 @@ layout: post
 published: true
 categories:
   - news
-title: 只需再等待一天，今年的高考分数就要公布了！
-subtitle: 俗称“第二次”高考的志愿填报即将开始，如何填报志愿让众多家长茫无头绪，小编整理了最权威的填报志愿方法和注意事项，供您参考。
+title: 高考分数即将公布！志愿填报的权威攻略来了
+subtitle: 只需再等待一天，今天的高考分数就要公布了！
 language: zh
 ---
 
