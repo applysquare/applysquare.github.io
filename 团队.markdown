@@ -7,7 +7,6 @@ published: true
 ---
 王刚
 
-
 _创始人及首席执行官_
  
 ![]({{site.baseurl}}/image/%E7%85%A7%E7%89%871.2.jpg)
