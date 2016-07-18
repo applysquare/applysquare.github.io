@@ -3,7 +3,7 @@ layout: post
 published: true
 categories:
   - branding
-title: 为什么学机械工程的同学并不需要女朋友【罢特大白话】
+title: 【罢特大白话】为什么学机械工程的同学并不需要女朋友
 subtitle: 罢特大白话专业系列漫画第一季最后一期
 language: zh
 ---
