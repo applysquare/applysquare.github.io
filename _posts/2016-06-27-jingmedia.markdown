@@ -3,7 +3,7 @@ layout: post
 published: true
 categories:
   - news
-title: 【后浪】王刚：申请方要拿学业发展大数据做什么？
+title: 王刚：申请方要拿学业发展大数据做什么？
 subtitle: 鲸媒体对ApplySquare(申请方)的报道
 language: zh
 ---
