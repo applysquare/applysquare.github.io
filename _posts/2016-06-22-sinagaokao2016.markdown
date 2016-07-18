@@ -4,7 +4,7 @@ published: true
 categories:
   - news
 title: 选学校调专业，“神器”来帮你
-subtitle: ApplySquare(申请方)高考报考系列
+subtitle: 新浪新闻中心对ApplySquare(申请方)的报道
 language: zh
 ---
 本报济南6月22日讯(记者 许亚薇) 
