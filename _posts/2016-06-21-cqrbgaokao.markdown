@@ -5,6 +5,7 @@ categories:
   - news
 title: 节约5万元！如此犀利的高考志愿填报神器，居然还是免费的
 language: zh
+subtitle: 重庆日报微信公众号对ApplySquare(申请方)的报道
 ---
 还有两天，2016重庆高考的各批次录取分数线就将公布，考生也将获得自己的高考分数。
 
