@@ -3,7 +3,7 @@ layout: post
 published: true
 categories:
   - branding
-title: 学生创业还没背景，是不是要上天？【品牌活动问达42第一期】
+title: '【品牌活动:问达42第一期】学生创业还没背景，是不是要上天？'
 language: zh
 subtitle: 品牌活动问达42第一期
 ---
