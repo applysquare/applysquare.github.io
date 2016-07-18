@@ -6,6 +6,7 @@ categories:
 title: First overseas media salon at Tsinghua
 language: zh
 subtitile: 清华微信公众号对ApplySquare(申请方)的报道
+subtitle: 清华微信公众号对ApplySquare(申请方)的报道
 ---
 Event | First overseas media salon at Tsinghua
 
