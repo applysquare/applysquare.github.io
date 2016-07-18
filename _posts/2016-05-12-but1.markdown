@@ -3,7 +3,7 @@ layout: post
 published: true
 categories:
   - branding
-title: 从交了会计女友说起【罢特大白话】
+title: 【罢特大白话】从交了会计女友说起
 subtitle: 罢特大白话专业系列漫画第一期
 language: zh
 ---
