@@ -4,7 +4,7 @@ published: true
 categories:
   - news
 title: 申请方 获千万A轮融资
-subtitle: 新浪财经对ApplySquare（申请方）的采访
+subtitle: 新浪财经对ApplySquare(申请方)的采访
 language: zh
 ---
 
