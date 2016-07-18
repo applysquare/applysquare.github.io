@@ -4,7 +4,7 @@ published: true
 categories:
   - news
 title: 不光帮你填志愿 这款 APP能帮你解决大学所有困惑
-subtitle: 大众网对ApplySquare（申请方）的报道
+subtitle: 大众网对ApplySquare(申请方)的报道
 language: zh
 ---
 
