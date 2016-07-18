@@ -3,7 +3,7 @@ layout: post
 published: true
 categories:
   - branding
-title: 学新闻的将来都要做狗仔队吗？ 【罢特大白话】
+title: 【罢特大白话】学新闻的将来都要做狗仔队吗？
 subtitle: 罢特大白话专业系列漫画第五期
 language: zh
 ---
