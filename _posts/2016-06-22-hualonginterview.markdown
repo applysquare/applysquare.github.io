@@ -4,8 +4,7 @@ published: true
 categories:
   - news
 title: “高考志愿填报神器”火了！大数据帮你轻松做选择
-subtitle: >-
-  近日，记者了解到一款“高考志愿填报神器”——ApplySquare（申请方）。该应用面向社会免费开放，并拥有完善的数据库集合和专业的分析软件，大大提高了报考效率。
+subtitle: 华龙网对ApplySquare(申请方)的报道
 language: zh
 ---
 
