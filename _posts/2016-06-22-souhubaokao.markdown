@@ -4,7 +4,7 @@ published: true
 categories:
   - news
 title: 高考分数即将公布！志愿填报的权威攻略来了
-subtitle: 只需再等待一天，今天的高考分数就要公布了！
+subtitle: 搜狐网对ApplySquare(申请方)的报道
 language: zh
 ---
 
