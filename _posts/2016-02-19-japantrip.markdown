@@ -4,7 +4,7 @@ published: true
 subtitle: 申请方环游世界旅行计划，正在进行中。
 language: zh
 cover: fog.jpg
-title: 哦哈哟，日本！
+title: 【环球旅行计划】哦哈哟，日本！
 categories:
   - branding
 ---
