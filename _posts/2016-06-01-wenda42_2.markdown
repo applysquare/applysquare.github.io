@@ -3,7 +3,7 @@ layout: post
 published: true
 categories:
   - branding
-title: 回报高中母校恩情，it's the time! 【品牌活动问达42第二期】
+title: '【品牌活动:问达42第二期】 回报高中母校恩情，it''s the time!'
 subtitle: 品牌活动问达42第二期
 language: zh
 ---
