@@ -4,7 +4,7 @@ published: true
 categories:
   - news
 title: “申请方”APP：让考生知道大学里所有问题
-subtitle: 新华网对ApplySquare（申请方）的主动报道
+subtitle: 新华网对ApplySquare(申请方)的主动报道
 language: zh
 ---
 
