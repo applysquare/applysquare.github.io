@@ -3,7 +3,7 @@ layout: post
 published: true
 categories:
   - branding
-title: 学生物的真的都是小白鼠杀手吗？【罢特大白话】
+title: 【罢特大白话】学生物的真的都是小白鼠杀手吗？
 subtitle: 罢特大白话专业系列漫画第四期
 language: zh
 ---
