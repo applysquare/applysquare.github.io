@@ -4,7 +4,7 @@ published: true
 categories:
   - news
 title: '权威!热门高校预估分数线出炉!文科前2000名,理科前8400名可以冲山大'
-subtitle: 齐鲁晚报对申请方报考工具的报道
+subtitle: 齐鲁晚报对ApplySquare(申请方)报考工具的报道
 language: zh
 ---
 25日，2016年山东高考招生咨询会
