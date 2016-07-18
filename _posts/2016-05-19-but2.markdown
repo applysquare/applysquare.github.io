@@ -3,7 +3,7 @@ layout: post
 published: true
 categories:
   - branding
-title: 为什么学计算机的人总是被黑【罢特大白话】
+title: 【罢特大白话】为什么学计算机的人总是被黑
 subtitle: 罢特大白话专业系列漫画第二期
 language: zh
 ---
