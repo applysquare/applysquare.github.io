@@ -4,7 +4,7 @@ published: true
 categories:
   - news
 title: 高考结束，专业如何选？
-subtitle: 专业选择意味着什么？
+subtitle: 推爸推妈对ApplySquare(申请方)的报道
 language: zh
 ---
 推导言：
