@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - branding
 title: 亚洲创新创业精英来访申请方！
@@ -97,7 +97,3 @@ Marshall认为，国内不管是政策还是创业氛围都是一片峥嵘向上
 
 
 ![visit17.jpg]({{site.baseurl}}/image/visit17.jpg)
-
-
- 
-
