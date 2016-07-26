@@ -1,0 +1,9 @@
+---
+layout: post
+published: false
+categories:
+  - branding
+title: 笔记本里藏着的，全是故事。
+language: zh
+---
+我们将之前设计画的画做成了本子。 谁说本子里面不能有故事呢？
