@@ -7,3 +7,16 @@ title: 笔记本里藏着的，全是故事。
 language: zh
 ---
 我们将之前设计画的画做成了本子。 谁说本子里面不能有故事呢？
+![]({{site.baseurl}}/image/IMG_1728.jpg)
+![]({{site.baseurl}}/image/%E7%85%A7%E7%89%87IMG_1720.JPG)
+![]({{site.baseurl}}/image/%E7%85%A7%E7%89%87IMG_1721.JPG)
+![IMG_1723.JPG]({{site.baseurl}}/image/IMG_1723.JPG)
+![]({{site.baseurl}}/image/%E7%85%A7%E7%89%87IMG_1722.jpg)
+![]({{site.baseurl}}/image/IMG_1724.JPG)
+![IMG_1724.JPG]({{site.baseurl}}/image/IMG_1724.JPG)
+![]({{site.baseurl}}/image/IMG_1727.JPG)
+![]({{site.baseurl}}/image/IMGP3887.jpg)
+![]({{site.baseurl}}/image/IMG_1732.JPG)
+![]({{site.baseurl}}/image/IMG_1729.JPG)
+
+
