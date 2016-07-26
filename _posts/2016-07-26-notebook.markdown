@@ -13,7 +13,6 @@ language: zh
 ![IMG_1723.JPG]({{site.baseurl}}/image/IMG_1723.JPG)
 ![]({{site.baseurl}}/image/%E7%85%A7%E7%89%87IMG_1722.jpg)
 ![]({{site.baseurl}}/image/IMG_1724.JPG)
-![IMG_1724.JPG]({{site.baseurl}}/image/IMG_1724.JPG)
 ![]({{site.baseurl}}/image/IMG_1727.JPG)
 ![]({{site.baseurl}}/image/IMGP3887.jpg)
 ![]({{site.baseurl}}/image/IMG_1732.JPG)
