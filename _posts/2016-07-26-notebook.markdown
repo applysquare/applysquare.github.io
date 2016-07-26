@@ -16,4 +16,4 @@ language: zh
 ![]({{site.baseurl}}/image/IMG_1727.JPG)
 ![]({{site.baseurl}}/image/IMGP3887.jpg)
 ![]({{site.baseurl}}/image/IMG_1732.JPG)
-![]({{site.baseurl}}/image/IMG_1729.JPG)![IMG_1729.JPG]({{site.baseurl}}/image/IMG_1729.JPG)
+![]({{site.baseurl}}/image/IMG_1729.JPG)
