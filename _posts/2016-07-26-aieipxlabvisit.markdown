@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - news
 title: 可以，这很AIEIP
@@ -105,5 +105,4 @@ AIEIP在清华大学阶段的学习体验正式结束，同学们将要踏上前
 文案&排版：王文婕
 图片：刘江、关晗怡、黄沛
 
-微信扫一扫
 
