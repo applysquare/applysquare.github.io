@@ -9,6 +9,7 @@ language: zh
 我们将之前设计画的画做成了本子。 谁说本子里面不能有故事呢？
 ![]({{site.baseurl}}/image/IMG_1728.jpg)
 ![]({{site.baseurl}}/image/%E7%85%A7%E7%89%87IMG_1720.JPG)
+![IMG_1731.JPG]({{site.baseurl}}/image/IMG_1731.JPG)
 ![]({{site.baseurl}}/image/%E7%85%A7%E7%89%87IMG_1721.JPG)
 ![IMG_1723.JPG]({{site.baseurl}}/image/IMG_1723.JPG)
 ![]({{site.baseurl}}/image/%E7%85%A7%E7%89%87IMG_1722.jpg)
