@@ -1,0 +1,10 @@
+---
+layout: post
+published: false
+categories:
+  - branding
+title: 这是一个test文章
+language: zh
+subtitle: 这是一个test的文章
+---
+this is a test post
