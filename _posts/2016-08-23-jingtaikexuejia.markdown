@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - news
 subtitle: 申请方受邀参加2016京台青年科学家论坛
