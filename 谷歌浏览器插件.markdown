@@ -1,7 +1,17 @@
 ---
 layout: page
 title: 谷歌浏览器插件安装教程
-subtitle: "Google Chrome 谷歌浏览器是一款简洁、快速的浏览器，也正因为其简洁快速，所以它只实现了浏览器的核心功能，很多外围的功能它交给了插件系统和第三方应用去完成。\n\n基于 Google Chrome 插件开发，申请方网申工具已经覆盖北美100家以上的网申系统。网申工具智能提示填写处的含义与格式，并自动记录申请者的填写信息。针对不同学校网申系统的相似内容，网申工具将导出后台记录进行智能提示，并辅助填充，为申请者大量消减网申中低效耗时的重复性填写，显著提升了网申过程的准确性。\n\n但是，Google 的服务器在美国，有时候打开速度很慢，加上一些应用并没有注册在 Google Chrome Web Store 上面，所以这个教程就来教教大家如何快速安装申请方谷歌浏览器插件。\n"
+subtitle: >
+  Google Chrome
+  谷歌浏览器是一款简洁、快速的浏览器，也正因为其简洁快速，所以它只实现了浏览器的核心功能，很多外围的功能它交给了插件系统和第三方应用去完成。
+
+
+  基于 Google Chrome
+  插件开发，申请方网申工具已经覆盖北美100家以上的网申系统。网申工具智能提示填写处的含义与格式，并自动记录申请者的填写信息。针对不同学校网申系统的相似内容，网申工具将导出后台记录进行智能提示，并辅助填充，为申请者大量消减网申中低效耗时的重复性填写，显著提升了网申过程的准确性。
+
+
+  但是，Google 的服务器在美国，有时候打开速度很慢，加上一些应用并没有注册在 Google Chrome Web Store
+  上面，所以这个教程就来教教大家如何快速安装申请方谷歌浏览器插件。
 language: zh
 permalink: /谷歌浏览器插件/
 published: true
@@ -15,7 +25,7 @@ published: true
 可通过[百度软件中心](http://rj.baidu.com/soft/detail/14744.html)，[太平洋软件中心](http://dl.pconline.com.cn/download/51614.html)或[天极软件中心](http://mydown.yesky.com/desktop/gamedesk/manhuakatong/318/416318.shtml)等下载。
 
 ### 2. 下载申请方 crx 格式的 Google Chrome 插件文件
-[请点击此处下载](http://storage.applysquare.com/a2/chrome/plugin_v0.0.1.33.zip)并解压缩。
+[请点击此处下载](http://storage.applysquare.com/a2/chrome/plugin_v0.0.1.36.zip)并解压缩。
 
 ### 3. 进入插件管理界面
 打开 Chrome 浏览器，点击 “扩展程序” 进入插件管理界面。如下图所示。
