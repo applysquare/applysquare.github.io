@@ -1,0 +1,10 @@
+---
+layout: post
+published: true
+categories:
+  - news
+language: zh
+---
+11月13日，芥末堆主办的为期三天的“GET2016教育科技大会”在北京落下帷幕。ApplySquare（申请方）受邀参展，联合创始人龚绮在大会上做了以“数据驱动的教育变革”为主题的演讲。
+
+![]({{site.baseurl}}/image/%E5%9B%BE%E7%89%871.png)
