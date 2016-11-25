@@ -4,7 +4,7 @@ published: true
 categories:
   - news
 language: zh
-subtitle: ApplySquare（申请方）公司旗下面向B端业务的全新子品牌：SquareStrategics（方略）发布。
+subtitle: 中国教育在线对ApplySquare（申请方）新品牌发布会的报道
 ---
 10月28日中午，ApplySquare（申请方）的创始人兼CEO王刚在其参与众筹的教育家咖啡馆做了主题演讲《数据驱动的教育变革》，并发布了公司旗下面向B端业务的全新子品牌：SquareStrategics（方略）。
 
