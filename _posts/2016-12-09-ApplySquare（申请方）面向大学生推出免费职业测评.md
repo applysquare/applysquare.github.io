@@ -3,7 +3,7 @@ layout: post
 published: true
 categories:
   - news
-subtitle: ApplySquare（申请方）面向全国大学生推出免费留学测评工具
+subtitle: ApplySquare（申请方）面向全国大学生推出免费职业测评工具
 language: zh
 ---
 12月8日，全国学业发展平台ApplySquare（申请方）面向全国大学生群体推出免费职业测评产品： iKASC职业测评，该测评将从iKASC五项维度(interest兴趣,knowledge知识,ability能力,skill技能,certification资格认证)的测试来为大学生推荐他们最适合的职业。
