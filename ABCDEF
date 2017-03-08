@@ -1,0 +1,10 @@
+---
+layout: post
+published: false
+categories:
+  - news
+subtitle: 你猜这是啥
+language: zh
+cover: fog.jpg
+---
+test![447935082153426244.jpg]({{site.baseurl}}/image/447935082153426244.jpg)
