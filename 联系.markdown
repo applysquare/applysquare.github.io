@@ -1,9 +1,10 @@
 ---
 layout: page
 title: 联系我们
-subtitle:
+subtitle: null
 language: zh
 permalink: /联系/
+published: true
 ---
 
 ### **公司地址**
@@ -13,7 +14,7 @@ permalink: /联系/
 <contact@applysquare.com>
 
 ### **北京总部联系电话**
-400-001-8769, 010-8286-4656
+400-001-8769, 010-8215-1802
 
 ### **北美总部联系电话**
 (+1) 919-265-8105
