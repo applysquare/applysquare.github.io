@@ -2,7 +2,7 @@
 layout: page
 title: 关于我们
 language: zh
-permalink: /aboutus/
+permalink: /aboutus-old/
 ---
 
 

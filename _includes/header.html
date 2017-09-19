@@ -11,14 +11,11 @@
 </div>
 <div class="collapse navbar-collapse" id="navbar">
 <ul class="nav navbar-nav">
-<li class="{% if page.tab == 'home' %}active{% endif %}">
-<a href="/"><span lang="en">Home</span><span class="hide" lang="zh">首页</span></a>
+<li class="{% if page.tab == 'aboutus' %}active{% endif %}">
+<a href="/aboutus/"><span lang="en">About Us</span><span class="hide" lang="zh">关于我们</span></a>
 </li>
-<li class="{% if page.tab == 'news' %}active{% endif %}">
-<a href="/news/"><span lang="en">News</span><span class="hide" lang="zh">媒体</span></a>
-</li>
-<li class="{% if page.tab == 'branding' %}active{% endif %}">
-<a href="/branding/"><span lang="en">Branding</span><span class="hide" lang="zh">品牌</span></a>
+<li class="{% if page.tab == 'joinus' %}active{% endif %}">
+<a href="/joinus/"><span lang="en">Join Us</span><span class="hide" lang="zh">加入我们</span></a>
 </li>
 <!-- %li{class: "{% if page.tab == 'family' %}active{% endif %}"} -->
 <!-- %a{href: "/family/"} -->
@@ -26,9 +23,6 @@
 <!-- %span.hide{lang: "zh"}<> A2 Family -->
 <li class="{% if page.tab == 'team' %}active{% endif %}">
 <a href="/team/"><span lang="en">Team</span><span class="hide" lang="zh">团队</span></a>
-</li>
-<li class="{% if page.tab == 'aboutus' %}active{% endif %}">
-<a href="/aboutus/"><span lang="en">About Us</span><span class="hide" lang="zh">关于</span></a>
 </li>
 <!-- %li{class: "{% if page.tab == 'archive' %}active{% endif %}"} -->
 <!-- %a{href: "/archive/", lang: "en"} -->
