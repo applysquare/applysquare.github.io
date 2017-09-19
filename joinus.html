@@ -1,0 +1,7 @@
+---
+layout: base
+permalink: /joinus/
+tab: joinus
+---
+
+<article class="page js-page"><section class="page-content js-page-content"><div class="container"><h4>Why work at ApplySquare?</h4><p><div>工作地点可选；</div><div>海外调动的家庭安置；</div><div>北美交流、访问与工作的机会；</div><div>拓展在国内外高校的人际网络；</div><div>舒适且积极的工作环境；</div><div>健康第一的病假理念；</div><div>定期的环球旅行计划。</div></p><h4>职位</h4><table class="table table-hover jobs js-jobs"><thead><tr><td class="col-md-5">职位名称</td><td class="col-md-2">工作类型</td><td class="col-md-3">工作地点</td><td class="col-md-2">工作属性</td></tr></thead><tbody>{% for job in site.data.jobs %}<tr class="js-jobs" data-job-title="{{ job.title }}"><td class="col-md-5">{{ job.title }}</td><td class="col-md-2">{{ job.category }}</td><td class="col-md-3">{{ job.location }}</td><td class="col-md-2">{{ job.type }}</td></tr><tr class="jobs-details js-jobs-details hide" data-job-title="{{ job.title }}"><td colspan="4"><div style="margin-bottom:10px"><strong>职位描述</strong><div>{{ job.description }}</div></div><strong>任职要求</strong>{% for requirement in job.requirements %}<div>{{ requirement }}</div>{% endfor %}</td></tr>{% endfor %}</tbody></table><h4>How to apply?</h4><p>{{ '请将个人简历发至 <hr@applysquare.com>，邮件标题为： 姓名+专业+毕业院校+申请职位' | markdownify }}</p></div></section></article>
