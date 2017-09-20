@@ -55,5 +55,6 @@ Campus activities inquiries please send to <campus@applysquare.com>
 
 If you are faculty members, please send emails to <faculty@applysquare.com>
 
-Our headquarter is located at: 26th floor, Technology Building D, 1 Zhongguancun E Rd, Haidian Qu, Beijing, P.R.China, 100084
+### **Our headquarter is located at**:
 
+26th floor, Technology Building D, 1 Zhongguancun E Rd, Haidian Qu, Beijing, P.R.China, 100084
