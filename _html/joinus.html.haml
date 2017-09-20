@@ -1,18 +1,14 @@
 == ---
 layout: base
-title: 工作机会
-language: zh
-permalink: /加入/
+permalink: /joinus/
+tab: joinus
 == ---
 = "\n\n"
 
-%div<>
-  = "{% include welcome.html %}"
-
 %article.page.js-page<>
-  .container<>
-    .title<>
-      %h2<> Why work at ApplySquare?
+  %section.page-content.js-page-content<>
+    .container<>
+      %h4<> Why work at ApplySquare?
       %p<>
         %div<> 工作地点可选；
         %div<> 海外调动的家庭安置；
@@ -22,8 +18,7 @@ permalink: /加入/
         %div<> 健康第一的病假理念；
         %div<> 定期的环球旅行计划。
 
-  %section.page-content.js-page-content<>
-    .container<>
+      %h4<> 职位
       %table.table.table-hover.jobs.js-jobs<>
         %thead<>
           %tr<>
@@ -33,7 +28,6 @@ permalink: /加入/
             %td.col-md-2<> 工作属性
         %tbody<>
           = "{% for job in site.data.jobs %}"
-          = "{% if job.language == page.language %}"
           %tr.js-jobs{"data-job-title" => "{{ job.title }}"}<>
             %td.col-md-5<> {{ job.title }}
             %td.col-md-2<> {{ job.category }}
@@ -41,17 +35,14 @@ permalink: /加入/
             %td.col-md-2<> {{ job.type }}
           %tr.jobs-details.js-jobs-details.hide{"data-job-title" => "{{ job.title }}"}<>
             %td{colspan: 4}<>
-              %div<>
+              %div{"style": "margin-bottom:10px"}<>
                 %strong<> 职位描述
-                %div<> {{ job.description | markdownify }}
+                %div<> {{ job.description }}
               %strong<> 任职要求
               = "{% for requirement in job.requirements %}"
               %div<> {{ requirement }}
               = "{% endfor %}"
-          = "{% endif %}"
           = "{% endfor %}"
 
-  .container<>
-    .title<>
-      %h2<> How to apply?
+      %h4<> How to apply?
       %p<> {{ '请将个人简历发至 <hr@applysquare.com>，邮件标题为： 姓名+专业+毕业院校+申请职位' | markdownify }}
