@@ -52,11 +52,11 @@ prose:
           label: "Add Categories"
           placeholder: "Add Categories"
           options:
-            - name: "ApplySquare"
+            - name: "About Us"
               value: "applysquare"
-            - name: "News"
+            - name: "Media"
               value: "news"
-            - name: "Branding"
-              value: "branding"
+            - name: "A2 Family"
+              value: "a2"
 
 
