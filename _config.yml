@@ -58,5 +58,6 @@ prose:
               value: "news"
             - name: "A2 Family"
               value: "a2"
-
+            - name: "Blog"
+              value: "branding"
 
