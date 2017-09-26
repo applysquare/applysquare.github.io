@@ -6,6 +6,7 @@ categories:
   - branding
 language: zh
 Subtitle: 全国青年责任论坛圆满结束
+title: ApplySquare（申请方）“时代青年，责任当担” 全国青年责任论坛圆满落幕
 ---
 6月7日上午，“时代青年，责任当担” 全国青年责任论坛暨2017申请方学业公益项目挑战赛决赛在北京香格里拉饭店圆满落幕。
 
