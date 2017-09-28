@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - branding
 title: 【一读EDU】你们学校为什么没有入选“双一流”？不妨先看这些数据分析
