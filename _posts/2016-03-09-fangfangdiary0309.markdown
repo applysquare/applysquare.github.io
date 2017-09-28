@@ -6,7 +6,7 @@ language: zh
 cover: fog.jpg
 title: 【A2family】Vol.4 方方今天做了一次英雄
 categories:
-  - branding
+  - a2
 ---
 2016年3月9日
 
