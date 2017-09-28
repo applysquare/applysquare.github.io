@@ -6,7 +6,7 @@ language: zh
 cover: fog.jpg
 published: true
 categories:
-  - branding
+  - a2
 ---
 
 
