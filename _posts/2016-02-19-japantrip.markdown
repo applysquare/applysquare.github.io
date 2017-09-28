@@ -4,8 +4,9 @@ published: true
 subtitle: 申请方环游世界旅行计划，正在进行中。
 language: zh
 cover: fog.jpg
-title: 【环球旅行计划】哦哈哟，日本！
+title: 【环球旅行计划】【A2家庭】哦哈哟，日本！
 categories:
+  - a2
   - branding
 ---
 旅行者能够看到他所拥有的是何等的少，而他所未曾拥有的和永远不会拥有的是何等的多。”
