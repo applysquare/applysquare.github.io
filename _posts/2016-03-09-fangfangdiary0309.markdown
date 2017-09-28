@@ -4,7 +4,7 @@ published: true
 subtitle: 3月9日，方方的小日记。
 language: zh
 cover: fog.jpg
-title: 【A2family】Vol.4 方方今天做了一次英雄
+title: 【A2 Family】Vol.4 方方今天做了一次英雄
 categories:
   - a2
 ---
