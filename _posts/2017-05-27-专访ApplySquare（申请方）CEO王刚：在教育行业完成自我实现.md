@@ -2,7 +2,6 @@
 layout: post
 published: true
 categories:
-  - applysquare
   - news
   - branding
 ---
