@@ -3,8 +3,10 @@ layout: post
 title: 从一开始，从 2 而终；这能招到牛人嘛
 subtitle: 申请方团队想招人，也麻烦帮助转发扩散一下。
 language: zh
-categories: [applysquare]
+categories:
+  - branding
 cover: droplets.jpg
+published: true
 ---
 
 关于我们的团队和行业，可以参见 “[后浪创业,纵情向前](http://blog.applysquare.com/2014/09/launch/)” 这篇文章，并且下载我们的APP以及登陆我们的 [线上网站](https://www.applysquare.com/) 及 [线下网站](http://www.a2plan.com/) 体验一下。
