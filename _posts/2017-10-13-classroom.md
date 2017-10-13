@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - branding
 title: 【一读EDU】从教室入手，向世界一流大学看齐！
