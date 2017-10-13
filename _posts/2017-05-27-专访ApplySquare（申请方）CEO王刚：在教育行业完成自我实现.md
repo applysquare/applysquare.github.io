@@ -3,8 +3,8 @@ layout: post
 published: true
 categories:
   - news
-  - branding
 language: zh
+subtitle: 海外网对ApplySquare（申请方）CEO王刚的专访
 ---
 
 “不忘初心”或者是许多创业者的心声，对平方创想的CEO王刚来说，他可以一直坚守初心，而且创业之路也算顺利。
