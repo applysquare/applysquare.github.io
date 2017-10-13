@@ -3,7 +3,6 @@ layout: post
 published: true
 categories:
   - news
-  - branding
 language: zh
 Subtitle: 全国青年责任论坛圆满结束
 title: ApplySquare（申请方）“时代青年，责任当担” 全国青年责任论坛圆满落幕
