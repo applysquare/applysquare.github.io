@@ -3,7 +3,7 @@ layout: post
 published: true
 categories:
   - branding
-title: 【一读EDU】院士+长江学者：一个新闻学院的“豪华配置”
+title: 【一读EDU】喻国明的“学术创业”
 subtitle: 带你走近北师大新闻传播学院执行院长喻国明，了解他的“学术创业”经历
 language: zh
 ---
