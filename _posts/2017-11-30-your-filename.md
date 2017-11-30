@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - branding
 title: 【一读EDU】院士+长江学者：一个新闻学院的“豪华配置”
@@ -386,4 +386,3 @@ language: zh
 > 本期作者
 北京研究分站 秋和
 一读EDU编辑部
-
