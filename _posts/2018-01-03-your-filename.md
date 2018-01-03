@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - branding
 title: ［一读EDU］习主席的书架上，多了一本来自高校的新书！
