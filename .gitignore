@@ -24,3 +24,5 @@ _js/applysquare.js
 *.sass.css
 .sass-cache
 
+node_modules
+vendor

@@ -9,7 +9,7 @@ $(DIR)/%: %.haml
 	@mkdir -p `dirname $@`
 	@rm -f $@
 	@echo "$< => $@"
-	@haml --double-quote-attributes --style ugly $< $@
+	@haml  --no-escape-attrs --double-quote-attributes $< $@
 
 .PHONY: clean
 clean:
