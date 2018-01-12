@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - news
 title: ApplySquare（申请方）面向高中生推出高考专业测评
