@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - news
 title: STEAM+ D会成为中国拔尖人才的入口么
