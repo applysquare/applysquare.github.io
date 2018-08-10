@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories:
   - news
 title: 生涯规划怎么做，ApplySquare（申请方）给你总结了四类线索
@@ -93,5 +93,3 @@ language: zh
 本期作者
 方略研究院北京研究分站 陶雪婷
 教师微笔记编辑部
-
-
