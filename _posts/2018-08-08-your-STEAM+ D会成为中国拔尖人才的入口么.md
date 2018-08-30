@@ -1,11 +1,11 @@
 ---
 layout: post
 published: true
-categories:
-  - news
 title: STEAM+ D会成为中国拔尖人才的入口么
 subtitle: STEAM+ D科研项目全解析
 language: zh
+categories:
+  - branding
 ---
   近年，STEAM+D在教育领域中的活跃度大大提高，很多家庭和学校都希望自己的孩子能接受STEAM+D的研究性训练以提高孩子的研究能力、思维能力和动手能力。
 
@@ -229,4 +229,3 @@ STEAM+D教育不仅是一种科研训练的手段，更代表着一种现代教�
 本期作者
 方略研究院北京研究分站 陶雪婷
 教师微笔记编辑部
-
