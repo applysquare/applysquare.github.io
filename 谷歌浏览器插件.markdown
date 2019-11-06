@@ -25,7 +25,7 @@ published: true
 可通过[百度软件中心](http://rj.baidu.com/soft/detail/14744.html)，[太平洋软件中心](http://dl.pconline.com.cn/download/51614.html)或[天极软件中心](http://mydown.yesky.com/desktop/gamedesk/manhuakatong/318/416318.shtml)等下载。
 
 ### 2. 下载申请方 crx 格式的 Google Chrome 插件文件
-[请点击此处下载](http://storage.applysquare.com/a2/chrome/plugin_v0.0.1.36.zip)并解压缩。
+[请点击此处下载](https://cdn.applysquare.net/a2/chrome/plugin_v0.0.1.49.zip)并解压缩。
 
 ### 3. 进入插件管理界面
 打开 Chrome 浏览器，点击 “扩展程序” 进入插件管理界面。如下图所示。
